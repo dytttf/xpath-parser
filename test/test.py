@@ -15,8 +15,8 @@ class ParserTest(unittest.TestCase):
             xpath_list = f.readlines()
         for xpath in xpath_list:
             p = XpathExpression(xpath)
-            print(xpath.strip())
-            print(p.nodes)
+            # print(xpath.strip())
+            # print(p.nodes)
             # break
         return
 

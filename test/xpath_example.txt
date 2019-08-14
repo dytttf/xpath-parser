@@ -1,0 +1,2826 @@
+((//svg)[2]//text)/text()
+((//svg)[3]//text)/text()
+(.//*[@class="highwire-cite-authors"])[1]
+(.//*[@class="theatre-info "]//i)[2]
+(//div[@class="info-block info-promotion-block"]//*[@class="info-detail-col"])[1]
+(//div[@class="info-block info-promotion-block"]//*[@class="info-detail-col"])[2]
+(//div[@class="info-block info-promotion-block"]//*[@class="info-detail-col"])[3]
+(//div[@class="info-block info-promotion-block"]//*[@class="info-detail-col"])[4]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[1]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[2]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[3]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[4]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[5]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[6]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[7]
+(//div[@class="info-block"]//*[@class="info-detail-content"])[8]
+(//svg)[1]
+.//* [@class="p-book container"]/div[3]
+.//*[@align="left"]
+.//*[@align="left"]//a
+.//*[@bgcolor="#ffffff"]
+.//*[@border="0"]//td
+.//*[@border="0"]/tbody/tr[1]/td
+.//*[@class=" text- "]
+.//*[@class="Expand_SearchSLisi"]//li
+.//*[@class="Grid4"]/div[2]
+.//*[@class="Grid4"]/div[2]/h2/span|//div[@class=" PageTitleStyle1"]
+.//*[@class="GridSet"]//div[2]/h2/span
+.//*[@class="Head"]
+.//*[@class="Section"]//p
+.//*[@class="TitleCell"]/a
+.//*[@class="TitleCell"]/a/@href
+.//*[@class="_category"]
+.//*[@class="_day"]//p
+.//*[@class="_name"]
+.//*[@class="_title"]//a
+.//*[@class="_title"]//a[contains(@href,"pdf")]/@href
+.//*[@class="aHeadline"]
+.//*[@class="action_item action_count"]//span
+.//*[@class="active"]
+.//*[@class="announcement"]
+.//*[@class="announcementsPostTimestamp"]//span
+.//*[@class="archive-article"]
+.//*[@class="article colored-links"]
+.//*[@class="article left"]
+.//*[@class="article"]
+.//*[@class="article-body-text"]
+.//*[@class="article-contact"]/p/a[1]
+.//*[@class="article-content"]
+.//*[@class="article-date"]
+.//*[@class="article-list-old"]/li
+.//*[@class="article-meta"]//span
+.//*[@class="article-meta__author-bureau"]
+.//*[@class="article-meta__publish-date"]
+.//*[@class="article-republish-title"]
+.//*[@class="article-single-authors"]
+.//*[@class="article-subtitle"]
+.//*[@class="article__date"]
+.//*[@class="article__tags grid__col--offset-left-md-1 ml-md-0"]/a
+.//*[@class="article__title"]
+.//*[@class="article_wrap"]
+.//*[@class="articles"]//article
+.//*[@class="artikelintro"]//a
+.//*[@class="artikelintro"]//h1
+.//*[@class="artikelintro"]//h3
+.//*[@class="attribution-block"]//p
+.//*[@class="author author_meta"]//a
+.//*[@class="author staff"]/div[@class="name"]
+.//*[@class="author url fn"]
+.//*[@class="author vcard"]//a
+.//*[@class="author vcard"]/a
+.//*[@class="author-content"]//a
+.//*[@class="author-date"]
+.//*[@class="author-info__content"]
+.//*[@class="author-info__content"]//strong
+.//*[@class="author-line"]/a
+.//*[@class="author-meta-outedg"]//a
+.//*[@class="author-name"]
+.//*[@class="authorinfo"]/h4
+.//*[@class="authors"]
+.//*[@class="authors"]/a
+.//*[@class="authors-note"]/tt/a/@href
+.//*[@class="b-publicationtool-list__textOuter"]
+.//*[@class="b-subHeadline"]
+.//*[@class="b-zewpublicationtool-authors"]/p
+.//*[@class="b-zewtopthementool-detail__date"]//p
+.//*[@class="b-zewtopthementool-item-list b-zewtopthementool-item-list--bordered"]/div//h2
+.//*[@class="b-zewtopthementool-listitem csc-textpic"]
+.//*[@class="banner-menu"]//a
+.//*[@class="bg-white"]//p
+.//*[@class="bg-white"]/h5
+.//*[@class="bibtop"]
+.//*[@class="big-preview multi-big"]//img/@src
+.//*[@class="block formatting"]
+.//*[@class="block formatting"]//h1
+.//*[@class="block formatting"]/h2
+.//*[@class="block formatting"]/p[2]
+.//*[@class="blog-byline"]/text()
+.//*[@class="blog-home"]//h1
+.//*[@class="blog-list clearfix"]
+.//*[@class="blog-post"]//h1
+.//*[@class="blog-posts posts-large"]//article
+.//*[@class="body-content"]
+.//*[@class="body-row-page-white content-ugc"]/div/div/div[2]
+.//*[@class="bodytextlist"]
+.//*[@class="box-div"]/div[contains(., "DDR ($��Ԫ)")]//table//tr[position()>1]
+.//*[@class="box-div"]/div[contains(., "Flash")]//table//tr[position()>1]
+.//*[@class="box-div"]/div[contains(., "SSD")]//table//tr[position()>1]
+.//*[@class="box-div"]/div[contains(., "UFS")]//table//tr[position()>1]
+.//*[@class="box-div"]/div[contains(., "USB")]//table//tr[position()>1]
+.//*[@class="box-div"]/div[contains(., "eMCP")]//table//tr[position()>1]
+.//*[@class="box-div"]/div[contains(., "eMMC")]//table//tr[position()>1]
+.//*[@class="box-div"]/div[contains(., "����")]//table//tr[position()>1]
+.//*[@class="breadcrumbs"]//li[@class="title"]
+.//*[@class="buttons time fleft"]
+.//*[@class="byline author vcard"]//a
+.//*[@class="byline author vcard"]/time
+.//*[@class="byline"]//strong
+.//*[@class="byline__author-name"]
+.//*[@class="bylines"]//a
+.//*[@class="c-aside-teaser__entry"]//a[contains(@href,"pdf")]/@href
+.//*[@class="c-card__excerpt ts-small"]
+.//*[@class="c-grey-very-light"]
+.//*[@class="c-page-intro"]//h1
+.//*[@class="c-page-intro__author"]
+.//*[@class="c-page-intro__copy"]
+.//*[@class="c-page-title"]
+.//*[@class="c-red"]
+.//*[@class="c14v1-full"]//img/@src
+.//*[@class="caption"]//*[@class="author"]
+.//*[@class="caption"]//li/span
+.//*[@class="caption-article"]
+.//*[@class="card-block__authors mb-small"]
+.//*[@class="card-wrapper card--horizontal"]
+.//*[@class="card__date"]
+.//*[@class="cat-links"]//a
+.//*[@class="center text-tag "]
+.//*[@class="centercoltext"]//*[@dir="ltr"]//b[contains(text(),"By")]|.//*[@class="centercoltext"]//b/font[contains(text(),"By")]
+.//*[@class="centercoltext"]//*[@id="AutoNumber3"]//b
+.//*[@class="centercoltext"]//*[@id="AutoNumber3"]//b|.//font[@size="3"]|.//span[@class="style6"]/strong|.//h4|.//p[@align="center"]/span
+.//*[@class="centercoltext"]//a[contains(@href,"pdf")]/@href
+.//*[@class="centered-content"]//h1
+.//*[@class="cfedArticle__authorBlock__name"]
+.//*[@class="cfedPublicationListing"]
+.//*[@class="cinfo-name"]/h2
+.//*[@class="cinfo-name"]/p
+.//*[@class="cinfo-num"]/span[1]/i
+.//*[@class="cinfo-num"]/span[2]/i
+.//*[@class="cinfo-phone"]//p
+.//*[@class="clear"]/i
+.//*[@class="clear:both;"]|.//*[@class="box"]|.//*[@class="left"]//p
+.//*[@class="col col-xxs-12 col-xs-12 col-sm-6 col-md-4 col-lg-4"]/div
+.//*[@class="col cols8of12 "]/div
+.//*[@class="col lastCol"]
+.//*[@class="col lastCol"]//em
+.//*[@class="col lastCol"]/p[1]/strong
+.//*[@class="col quarter right sidebar"]/a/@href
+.//*[@class="col span-8 main"]/div
+.//*[@class="col span-8 main"]/div/ul
+.//*[@class="col two-thirds right typography"]//article
+.//*[@class="col two-thirds right typography"]/p/a
+.//*[@class="col-8-15"]/div
+.//*[@class="col-full"]/ul/li/a
+.//*[@class="col-lg-12"]//div
+.//*[@class="col-lg-12"]/div[1]/div[1]
+.//*[@class="col-md-12 episode-related-links"]/a/@href
+.//*[@class="col-md-2 text-right print-only"]//a[contains(@href,"/author/")]
+.//*[@class="col-md-4"]
+.//*[@class="col-sm-10 col-sm-offset-1 single-content"]
+.//*[@class="col-sm-10 col-sm-offset-1 single-content"]|.//*[@class="container"]/div[2]
+.//*[@class="col-sm-12"]//h1
+.//*[@class="col-sm-4 "]//p
+.//*[@class="col-xs-12 col-md-9 main-col"]//h1
+.//*[@class="col-xs-12 col-sm-8 col-md-8 col-lg-8 page-left-col"]//p[2]
+.//*[@class="col-xs-12 col-sm-8 col-md-8 col-lg-8 page-left-col"]/h1
+.//*[@class="collection-result"]
+.//*[@class="column left width-75"]
+.//*[@class="common-area"]//span|.//*[@class="text-area"]//span
+.//*[@class="container "]//li/div/a[not(contains(@href,"pdf"))]/..
+.//*[@class="container"]//a[contains(@href,"pdf")]/@href
+.//*[@class="container"]//img/@src
+.//*[@class="container"]/div
+.//*[@class="content page reduced"]
+.//*[@class="content"]
+.//*[@class="content"]//time
+.//*[@class="content"]/div[2]
+.//*[@class="content"]/div[2]/div
+.//*[@class="content"]/div[2]/div/div/div[2]/div[1]
+.//*[@class="content--2col__body"]//div
+.//*[@class="content--2col__body"]//h3
+.//*[@class="content-category content-single"]/div[1]/p[4]
+.//*[@class="content-holder"]
+.//*[@class="content-holder"]//h1
+.//*[@class="content-page-block"]//p
+.//*[@class="content-wrap"]
+.//*[@class="content-wrapper"]
+.//*[@class="contentRouterItems"]//a
+.//*[@class="contentRouterItems"]/p
+.//*[@class="content_inner  "]
+.//*[@class="content_inner  "]//a[contains(@href,"pdf")]/@href
+.//*[@class="content_inner  "]/div[2]
+.//*[@class="contentpagetitle"]
+.//*[@class="contributor"]
+.//*[@class="copy__body"]
+.//*[@class="copy__body"]/div/p[1]
+.//*[@class="cover"]//img/@src|.//*[@class="image"]//img/@src
+.//*[@class="creation_date"]
+.//*[@class="csc-frame frame_small-space"]/p/a
+.//*[@class="custom-contentTypeDate"]
+.//*[@class="custom-contentTypeTitle"]//h1
+.//*[@class="date entry_date updated"]
+.//*[@class="date"]
+.//*[@class="date"]/@content
+.//*[@class="date"]/a[1]
+.//*[@class="date"]/text()[2]
+.//*[@class="date-display-single"]
+.//*[@class="date-display-single"]/font/font|.//*[contains(@class,"date-display-single")]/text()|.//*[@class="date-display-start"]
+.//*[@class="date-meta-outedg"]//a
+.//*[@class="date-subtitle"]
+.//*[@class="datetime"]
+.//*[@class="description"]
+.//*[@class="detail clearfix"]
+.//*[@class="detail"]//a
+.//*[@class="detail-block"]
+.//*[@class="detail-block-content"]
+.//*[@class="details"]//div
+.//*[@class="details_content"]
+.//*[@class="disclaimer"]//em
+.//*[@class="distribute-bar-bg"]
+.//*[@class="div-content"]
+.//*[@class="docdesc column"]/p
+.//*[@class="document-date"]
+.//*[@class="document-publication__main"]/div
+.//*[@class="document-title__headline"]
+.//*[@class="ds-meta-wrapper"]//div[3]
+.//*[@class="edgtf-post-info-author"]/a
+.//*[@class="entry first last"]
+.//*[@class="entry-content clearfix"]
+.//*[@class="entry-content content"]
+.//*[@class="entry-content content"]/div[2]/div[2]/div/div/div/a | .//*[@class="article-footer"]/div[2]/div/div/div/a
+.//*[@class="entry-content"]
+.//*[@class="entry-content"]//a[contains(@href,"pdf")]
+.//*[@class="entry-content"]//p
+.//*[@class="entry-content"]/p[1]
+.//*[@class="entry-date fleft"]
+.//*[@class="entry-date"]//time
+.//*[@class="entry-header page-header"]//h1
+.//*[@class="entry-listing"]/li
+.//*[@class="entry-meta"]
+.//*[@class="entry-meta"]//a/time
+.//*[@class="entry-meta"]/a
+.//*[@class="entry-subtitle"]
+.//*[@class="entry-title"]
+.//*[@class="et_pb_gallery_image landscape"]//img/@src|.//*[@class="w3-container node__content"]//img/@src|.//div[@class="wrapper row3"]//img/@src|.//div[@id="main"]//img/@src
+.//*[@class="et_pb_salvattore_content"]//article
+.//*[@class="et_pb_section et_pb_section_1 et_section_regular"]|.//*[@id="main-container"]|.//div[@class="wrapper row3"]|.//div[@id="main"]
+.//*[@class="event-card-body event-card-body2"]
+.//*[@class="ewb-left l"]
+.//*[@class="ewb-span15 r"]/div[2]
+.//*[@class="expanding"]/p[1]
+.//*[@class="feature-image"]/img/@src
+.//*[@class="feature-report-body"]/div[1]
+.//*[@class="feature-report-body-right"]//p
+.//*[@class="featured-image "]//img/@src
+.//*[@class="featured-image"]//img/@src
+.//*[@class="featured-stories--vertical__headline"]
+.//*[@class="field field--body"]
+.//*[@class="field field--name-field-author field--type-entity-reference field--label-hidden field__items"]//div[@class="field__item"]
+.//*[@class="field field--name-field-publication-date field--type-datetime field--label-hidden field__item"]
+.//*[@class="field field-name-body"]
+.//*[@class="field field-name-title"]/h2/a
+.//*[@class="field field-type-datetime"]//time
+.//*[@class="field-content badge date-badge"]
+.//*[@class="field-content"]//a
+.//*[@class="field-content"]/time
+.//*[@class="field-item even"]
+.//*[@class="field-item even"]/span/a
+.//*[@class="field-name-body"]
+.//*[@class="field__item even"]/span
+.//*[@class="field__item"]//a
+.//*[@class="field__items"]//div[@class="field__item"]
+.//*[@class="figure figure--embed"]/iframe/@src
+.//*[@class="figure"]/img/@src
+.//*[@class="file"]//a[contains(@href,"pdf")]/@href
+.//*[@class="first last odd"]//h1
+.//*[@class="flex-body"]
+.//*[@class="flex-container flex-content-top"]/div[1]/p
+.//*[@class="fn"]//a
+.//*[@class="frameNews"]
+.//*[@class="full-report-header"]/p[1]
+.//*[@class="full_record_data"]/div[4]
+.//*[@class="g-plugin-columns__left"]
+.//*[@class="gde-text"]/a/@href
+.//*[@class="grid-3-of-4 first"]/div
+.//*[@class="grid-box"]//article/div
+.//*[@class="grid-box"]//h1
+.//*[@class="grid-box-inner"]//article
+.//*[@class="grid_10"]//h1
+.//*[@class="group-right"]
+.//*[@class="group-right"]/h4/a/div
+.//*[@class="h6; typeLowlight"]//em
+.//*[@class="half post-solo"]
+.//*[@class="half"]
+.//*[@class="has-content-area"]
+.//*[@class="has-content-area"]/p[1]
+.//*[@class="header__magazine-date"]
+.//*[@class="header__magazine-download"]/a/@href
+.//*[@class="header__wrapper wrapper"]/h1
+.//*[@class="headline"]//h2
+.//*[@class="hero article-detail hidden-print"]//img/@src
+.//*[@class="hero-img"]//img/@src
+.//*[@class="hero-wrapper"]//h1
+.//*[@class="holder"]
+.//*[@class="horizontal-rows col-700 center"]//li
+.//*[@class="horizontal-rows"]//li
+.//*[@class="ico_vplus"]/@class
+.//*[@class="iedm_details_author iedm_details"]//a
+.//*[@class="iedm_details_author iedm_details"]/a
+.//*[@class="iedm_list_date"]/span[2]
+.//*[@class="image image--article"]/img/@src
+.//*[@class="image"]//img/@src
+.//*[@class="image"]/img/@src
+.//*[@class="image-style-article-landscape"]/@src
+.//*[@class="image-style-preview-landscape"]/@src
+.//*[@class="imageboxhalftext"]/h3
+.//*[@class="imax"]
+.//*[@class="img-container "]//img/@src
+.//*[@class="in0title"]//h1
+.//*[@class="in0title"]/h1
+.//*[@class="info-category"]/text()|.//*[@class="tv-types"]
+.//*[@class="info-etitle-content"]
+.//*[@class="info-poster"]/img/@src
+.//*[@class="info-release"]/a/span[1]|.//*[@class="info-list"]/p[3]/span[1]
+.//*[@class="info-source-duration"]//p/text()
+.//*[@class="info-source-duration"]//span
+.//*[@class="info-tag"]/text()
+.//*[@class="info-title-content"]
+.//*[@class="inner pane-inner inside"]//p
+.//*[@class="inner pane-inner inside"]/div/div/div/span
+.//*[@class="inner"]/h1
+.//*[@class="intro"]
+.//*[@class="intro"]/h1
+.//*[@class="intro__date"]
+.//*[@class="intro__text"]
+.//*[@class="intro_txt"]/span
+.//*[@class="issue-flag issue-flag--left"]//a
+.//*[@class="issue-type"]
+.//*[@class="item clearfix"]
+.//*[@class="item-page"]//h2
+.//*[@class="js-name"]
+.//*[@class="l-container"]
+.//*[@class="l-container"]//h1
+.//*[@class="l-content"]
+.//*[@class="l-content"]//div//h1
+.//*[@class="l-content"]/h1
+.//*[@class="l-main"]//a[contains(@href,"pdf")]/@href
+.//*[@class="l-main"]|.//*[@id="wrapper-2"]
+.//*[@class="l-main-wrapper"]
+.//*[@class="l-news"]//li
+.//*[@class="l__content"]
+.//*[@class="l__content"]//*[@class="list__title"]
+.//*[@class="l__content"]/div[7]
+.//*[@class="label label-default"]
+.//*[@class="label"]
+.//*[@class="layout centraliser block "]//strong
+.//*[@class="layout-article"]
+.//*[@class="layout-primary"]/article
+.//*[@class="line pll"][1]//a
+.//*[@class="line pll"][2]//a
+.//*[@class="line pll"][3]//a
+.//*[@class="line pll"][4]//a
+.//*[@class="line pll"][5]//a
+.//*[@class="line pll"][6]//a
+.//*[@class="linked-signup-name"]
+.//*[@class="links"]//a
+.//*[@class="links"]//li
+.//*[@class="list__item"]/div
+.//*[@class="list_box"]//ul
+.//*[@class="list_content fl"]//h5
+.//*[@class="list_item"]
+.//*[@class="long-description"]
+.//*[@class="long-description"]/p//img/@src
+.//*[@class="long-description"]/p[3]/em/a/@href
+.//*[@class="loop-author"]//a
+.//*[@class="m-meta-header_category"]
+.//*[@class="magazine-single-sections-box"][position()<5]//a
+.//*[@class="main container"]
+.//*[@class="main container"]/article/div/header/img/@src
+.//*[@class="main"]
+.//*[@class="main"]/div[1]
+.//*[@class="main-container container"]
+.//*[@class="main-section "]
+.//*[@class="main-sub-title text-center"]
+.//*[@class="main__page-title page-title"]
+.//*[@class="margin-b-30"]/h1
+.//*[@class="masonry-thumbnail"]//img/@src
+.//*[@class="media-digest"]
+.//*[@class="media-heading"]
+.//*[@class="media-single__content"]
+.//*[@class="mediaBody"]
+.//*[@class="mediaBody"]//p
+.//*[@class="medmens"]
+.//*[@class="meta research"]//a
+.//*[@class="meta"]//a
+.//*[@class="meta"]/li[1]
+.//*[@class="meta"]|.//*[@class="post"]/div[2]/span[2]
+.//*[@class="meta-author"]
+.//*[@class="meta-author"]/a
+.//*[@class="meta-category"]/a
+.//*[@class="meta-cats"]//a
+.//*[@class="meta-date"]
+.//*[@class="meta-desc"]
+.//*[@class="meta-time"]/time/@datetime
+.//*[@class="meta__date"]/time
+.//*[@class="midashi lora"]
+.//*[@class="mod_summary intro_item"]//p
+.//*[@class="movie-tags"]//span
+.//*[@class="mp-pusher"]/div/div/div[2]/div/div/div/div[2]/span[1]
+.//*[@class="multimedia_asset_node_description_header"]
+.//*[@class="mw-container"]/img/@src
+.//*[@class="name"]
+.//*[@class="name"]/a
+.//*[@class="namecard"]/dl/dt
+.//*[@class="news-category"]
+.//*[@class="newsTex"]
+.//*[@class="news__meta-text"]
+.//*[@class="news_cate cinzel"]
+.//*[@class="next next_last"]
+.//*[@class="next"]
+.//*[@class="no-style"]//div
+.//*[@class="node-meta"]//a
+.//*[@class="node-meta"]//span
+.//*[@class="node__content"]
+.//*[@class="node__content"]/div[1]
+.//*[@class="node__title node-title"]//a
+.//*[@class="null"]//span
+.//*[@class="num j_rss_count"]|.//*[@class="count_num j_rss_count"]
+.//*[@class="numberwrap"]
+.//*[@class="o-btn btn--style-1"]/a/@href
+.//*[@class="o-btn"]/a/@href
+.//*[@class="o-metadata o-metadata--date"]
+.//*[@class="o-metadata o-metadata--hash"]
+.//*[@class="o-page-layout-marginal__content"]/div[1]
+.//*[@class="o-post-preview"]
+.//*[@class="o-post__author block"]
+.//*[@class="o-post__footer"]/time
+.//*[@class="o-post__header"]//h1
+.//*[@class="o-post__meta"]//a
+.//*[@class="o-tile__body"]
+.//*[@class="object_left"]
+.//*[@class="object_left"]//h1
+.//*[@class="overlay-details"]/a
+.//*[@class="p-book__title"]/a
+.//*[@class="p-item"]
+.//*[@class="p-item-e-name ellipsis-1"]
+.//*[@class="p-item-name ellipsis-1"]
+.//*[@class="p-link"]/@data-id
+.//*[@class="pad-right content typography"]
+.//*[@class="pad-right content"]//p|.//*[@class="main-content-wrapper"]//p|.//*[@class="main"]
+.//*[@class="page-article"]//a[contains(@href,"pdf")]/@href
+.//*[@class="page-content__content editor"]
+.//*[@class="page-content__content editor"]/ul/li
+.//*[@class="page-date"]
+.//*[@class="page-header"]
+.//*[@class="page-header__title"]
+.//*[@class="page-results__wrap"]//article
+.//*[@class="page-title t-center-align"]//h1
+.//*[@class="page-title"]
+.//*[@class="page-title"]//span
+.//*[@class="page__content-main"]/section/div[2]/p[1]
+.//*[@class="page__header grid--flex"]//img/@src
+.//*[@class="page_contect bai_bg"]
+.//*[@class="pager__item pager__item--next"]//a
+.//*[@class="pagewrap"]//h1
+.//*[@class="pagewrap"]//img/@src
+.//*[@class="pagewrap"]//section
+.//*[@class="pagination-pages-next"]
+.//*[@class="par parsys"]/div[2]
+.//*[@class="par parsys"]/div[2]|.//div[@class="container"]
+.//*[@class="person-list"]
+.//*[@class="persona-block persona-block-blue"]/div
+.//*[@class="persona-gender-female"]/div
+.//*[@class="persona-gender-male"]/div
+.//*[@class="persona-section"]/div[2]/div
+.//*[@class="pf-content"]
+.//*[@class="post"]//aside/text()[2]
+.//*[@class="post-content"]
+.//*[@class="post-content"]//div
+.//*[@class="post-date"]
+.//*[@class="post-header"]//*[@class="date"]
+.//*[@class="post-header"]/h1
+.//*[@class="post-inner-content"]
+.//*[@class="post-meta"]//span/a
+.//*[@class="post-meta-infos"]//time
+.//*[@class="post-title entry-title"]
+.//*[@class="post-title entry-title"]//a
+.//*[@class="post-title"]
+.//*[@class="post-title"]//h1
+.//*[@class="post-type"]//a
+.//*[@class="post__content post-content"]
+.//*[@class="post_author"]//a
+.//*[@class="post_image"]/img/@src
+.//*[@class="post_text"]
+.//*[@class="post_text_inner"]/h2/span
+.//*[@class="posted-on"]/time
+.//*[@class="ppf-single__content shareable"] | .//*[@class="has-content-area"] | .//*[@class="page__content shareable"]
+.//*[@class="ppic-author-line"]//a
+.//*[@class="ppic-bio-details"]
+.//*[@class="ppic-date"]
+.//*[@class="ppic-entry-date"]
+.//*[@class="ppic-entry-header"]
+.//*[@class="ppic-pub-summary"]/p[1]
+.//*[@class="ppic-search-entry"]
+.//*[@class="prbody"]
+.//*[@class="press_releases"]/li/ul/li
+.//*[@class="previous"]
+.//*[@class="product-single-item-inner dotted-line-bottom"]/h1
+.//*[@class="profile__title"]
+.//*[@class="pt-cv-ifield"]
+.//*[@class="pt-cv-page"]/div
+.//*[@class="pub-title"]
+.//*[@class="publication-date"]
+.//*[@class="publication-header"]//*[@class="authors"]
+.//*[@class="publication-header"]//img/@src
+.//*[@class="publication-item"]
+.//*[@class="publication-meta__data"]//time
+.//*[@class="publication-meta__data"]/dd[1]/time
+.//*[@class="publication-teaser__superheadline"]
+.//*[@class="publication_teaser"]/div
+.//*[@class="publicationbox"]//dl
+.//*[@class="publish-date"]
+.//*[@class="published"]
+.//*[@class="pubs"]
+.//*[@class="pure-u-1-1 featured-image"]//img/@src
+.//*[@class="quotedate"]//a
+.//*[@class="quotewrap"]
+.//*[@class="r"]
+.//*[@class="region region-content"]
+.//*[@class="region region-content"]//a[contains(@href,"pdf")]/@href
+.//*[@class="region region-content"]//div
+.//*[@class="region region-content"]//tbody//tr
+.//*[@class="region region-content"]/div[1]/ol/li[3]
+.//*[@class="region region-content"]|.//*[@property="content:encoded"]
+.//*[@class="related-tags__pills"]/a
+.//*[@class="related-topics"]//a
+.//*[@class="reportIndex__date"]
+.//*[@class="reportIndex__date"]|.//*[@class="centered-margin contents"]/div[1]/div[3]/p
+.//*[@class="reportIndex__title"]
+.//*[@class="result"]
+.//*[@class="right-col"]
+.//*[@class="role-section publicationRow"]//h1
+.//*[@class="row article-by-author-row byline"]//span
+.//*[@class="row border-bottom clearfix"]//article
+.//*[@class="row featured-show-title"]/div[1]/h2[1]
+.//*[@class="row featured-show-title"]/div[1]/h2[1]|.//h1
+.//*[@class="row load-more__container"]/div/a
+.//*[@class="row main-container-row"]
+.//*[@class="row"]
+.//*[@class="row"]//article
+.//*[@class="row"]/div[1]/h1
+.//*[@class="row"]/div[1]/p[1]
+.//*[@class="row"]/div[1]/p[1]|.//*[@class="sub-heading article-date"]
+.//*[@class="rpwe-li rpwe-clearfix"]
+.//*[@class="s5_contentwrapper"]/div
+.//*[@class="s5_contentwrapper"]/div/h6/img/@src
+.//*[@class="s5_contentwrapper"]/div/p[contains(text(),"By ")][1]
+.//*[@class="score-count"]//i
+.//*[@class="score-num"]/i
+.//*[@class="search-result"]
+.//*[@class="search-teaser views-fieldset"]/span[1]/span/a
+.//*[@class="search-teaser views-fieldset"]/span[2]/span
+.//*[@class="section abstract"]/p
+.//*[@class="section section--main"]
+.//*[@class="short-content"]
+.//*[@class="short-description"]
+.//*[@class="short_listing"]
+.//*[@class="single-meta"]
+.//*[@class="single-meta__item"]
+.//*[@class="site-content js-backtotop"]//div/h1
+.//*[@class="site-content js-backtotop"]/main/article/div[2]
+.//*[@class="slposts-child"]
+.//*[@class="slposts-child"]//a
+.//*[@class="speaker"]//a
+.//*[@class="spost-head"]/p[4]/b
+.//*[@class="sqs-block-button-container--center"]/a/@href
+.//*[@class="study-author"]
+.//*[@class="sub-heading article-date"]
+.//*[@class="subcolumns"]/div[1]
+.//*[@class="subhead_date"]
+.//*[@class="submitted"]/span/text()[2]
+.//*[@class="summary formatting"]
+.//*[@class="summary"]
+.//*[@class="summary-content sqs-gallery-meta-container"]
+.//*[@class="summary-metadata summary-metadata--primary"]
+.//*[@class="summary-metadata summary-metadata--secondary"]//a
+.//*[@class="summary-metadata-item summary-metadata-item--cats"]/a
+.//*[@class="table table-hover table-striped"]/tbody/tr
+.//*[@class="tag"]
+.//*[@class="tag-link"]
+.//*[@class="tag-list"]//span
+.//*[@class="tags"]
+.//*[@class="tags"]//a
+.//*[@class="tags_tag"]/a
+.//*[@class="taxonomies"]//a
+.//*[@class="teasers list organic"]//li
+.//*[@class="terms"]//a
+.//*[@class="text"]/h2
+.//*[@class="text"]/h3
+.//*[@class="text- tag-box-none subtitle"]
+.//*[@class="text- tag-box-none title"]
+.//*[@class="textformatter-list"]/li
+.//*[@class="textmedia textmedia--news"]//div
+.//*[@class="textual"]
+.//*[@class="theatre-info "]//h2
+.//*[@class="theatre-info "]/p/span[1]/i
+.//*[@class="thenumber"]//a
+.//*[@class="three columns article"]
+.//*[@class="thumbnail-play-img"]/iframe/@src
+.//*[@class="thump-single"]/img/@src
+.//*[@class="time"]
+.//*[@class="timestamp__date--published"]
+.//*[@class="title page-title"]
+.//*[@class="title"]
+.//*[@class="title"]//span
+.//*[@class="title"]/h1[1]
+.//*[@class="title-outer full-wrap clearfix"]/h1
+.//*[@class="title-single"]
+.//*[@class="title_details"]
+.//*[@class="title_subtitle_holder"]
+.//*[@class="title_subtitle_holder_inner"]
+.//*[@class="tocArticle"]
+.//*[@class="top flex news_date"]//p
+.//*[@class="top-section"]//img/@src
+.//*[@class="top-slide"]//img/@src
+.//*[@class="topic-list"]//li
+.//*[@class="topics"]/text()[2]
+.//*[@class="trending-block-top-text"]
+.//*[@class="ts-line"]
+.//*[@class="tv-category"]
+.//*[@class="tx-zew-publicationtool"]//div
+.//*[@class="type"]
+.//*[@class="typeHighlight1 mtn"]//strong
+.//*[@class="typeHighlight1 mtn"]/strong
+.//*[@class="u-entry pure-u-1"]
+.//*[@class="u-url"]
+.//*[@class="u-w100pct"]/tbody/tr[position()>1]
+.//*[@class="u-w20pct"]
+.//*[@class="updated"]
+.//*[@class="user_count"]/li[3]/span[2]
+.//*[@class="user_count"]/li[5]/span[2]
+.//*[@class="user_count"]/li[7]/span[2]
+.//*[@class="user_count_play"]/span[1]
+.//*[@class="user_count_video"]/span[1]
+.//*[@class="user_info"]/@href
+.//*[@class="username"]
+.//*[@class="uswds-page-title page-title"]//span
+.//*[@class="vc_gitem-zone-mini"]/div/div
+.//*[@class="vidDesc collapse-group"]
+.//*[@class="vidTitle"]
+.//*[@class="video-embed-field-provider-youtube"]/iframe/@src|.//*[@class="soundcloud"]/iframe/@src
+.//*[@class="view-content grid-width-main"]/div
+.//*[@class="view-content"]//article
+.//*[@class="view-content"]/div
+.//*[@class="view-content"]/div/article
+.//*[@class="view-content"]/div/div/div
+.//*[@class="view-content"]/table/tbody/tr
+.//*[@class="view-footer"]
+.//*[@class="views-field views-field-body-1"]//div
+.//*[@class="views-field views-field-field-brief-summary"]
+.//*[@class="views-field views-field-field-date"]
+.//*[@class="views-field views-field-field-release-date-season2"]
+.//*[@class="views-field views-field-title"]
+.//*[@class="views-field views-field-title"]//a
+.//*[@class="views-field views-field-title-1"]//span
+.//*[@class="views-field views-field-type"]/span
+.//*[@class="views-row"]
+.//*[@class="views-row"]/article
+.//*[@class="w-post-elm post_content"]
+.//*[@class="w-post-elm post_content"]/p[2]/strong
+.//*[@class="withType"]
+.//*[@class="wpb_wrapper vc_figure"]//img/@src
+.//*[@class="wrap-entry-meta"]/span[3]
+.//*[@class="wrapper archivedoc"]
+.//*[@class="wrapper content_wrapper"]
+.//*[@class="wrapper"]//h1
+.//*[@class="x-text"]/p[1]/strong
+.//*[@class="xinxi_ul"]//a/@href
+.//*[@class="zb_result_table"]//tr
+.//*[@colspan="1"]/div
+.//*[@colspan="3"]|.//*[@class="tg-wrap"]//tr
+.//*[@data-compact-height="0"]
+.//*[@data-document-score="1"]/article
+.//*[@data-id="aliasName"]/span[2]
+.//*[@data-id="birthPlace"]/span[2]
+.//*[@data-id="birthday"]/span[2]
+.//*[@data-id="intro"]/span[2]
+.//*[@data-id="originalName"]/span[2]
+.//*[@data-id="school"]/span[2]
+.//*[@data-lucy-module="blog"]
+.//*[@data-sudaclick="news_p"]//a
+.//*[@data-trigger="tab-pdf"]/@href
+.//*[@data-type="news-item"]
+.//*[@data-type="resource"]/h1
+.//*[@field_58f9af228c20a=""]
+.//*[@headers="view-field-date-table-column"]//time
+.//*[@headers="view-field-pdf-link-table-column"]//a
+.//*[@headers="view-field-release-datetime-table-column"]
+.//*[@headers="view-nothing-table-column"]//a/@href
+.//*[@headers="view-title-table-column"]
+.//*[@headers="view-title-table-column"]//a
+.//*[@height="20"]
+.//*[@id="0"]//p
+.//*[@id="Contents"]
+.//*[@id="Contents"]/div/div/div[2]/h2/span
+.//*[@id="Panes"]
+.//*[@id="add_custom"]//li|.//article
+.//*[@id="av-masonry-1"]/div/a
+.//*[@id="block-hamilton-page-title"]/h2
+.//*[@id="block-system-main"]//div
+.//*[@id="block-views-documents-block_3"]//a
+.//*[@id="block-views-documents-block_3"]/div
+.//*[@id="bodyshell"]
+.//*[@id="c02v2"]//img/@src
+.//*[@id="c2794"]/div/div/span//a
+.//*[@id="c2794"]/div/div/span[2]
+.//*[@id="content"]
+.//*[@id="content"]//*[@class="author vcard"]
+.//*[@id="content"]//*[@class="more"][1]/a
+.//*[@id="content"]//a[contains(@href,"pdf")]
+.//*[@id="content"]//a[contains(@href,"pdf")]/@href
+.//*[@id="content"]//article
+.//*[@id="content"]//article|.//*[@class="wpb_wrapper"]
+.//*[@id="content"]//div[@class="featured-image"]//img/@src
+.//*[@id="content"]//h2
+.//*[@id="content"]//time[@class="entry-date published"]
+.//*[@id="content"]/article
+.//*[@id="content"]/div/div/div[2]
+.//*[@id="content"]/div[2]/div[2]/text()[3]
+.//*[@id="content"]/div[2]/div[2]/text()[5]
+.//*[@id="content"]/div[contains(@class,"media-block")]
+.//*[@id="content"]/h2
+.//*[@id="content"]/section[5]//a
+.//*[@id="content"]|.//*[@id="main-container"]
+.//*[@id="content"]|.//*[@id="main-container"]|.//table[@bgcolor="#e6e6e6"]
+.//*[@id="content"]|.//*[@id="wrapper"]
+.//*[@id="content-block-markup"]/div
+.//*[@id="content-block-markup"]/div//img[not(starts-with(@src, "data"))]/@src
+.//*[@id="content-left"]
+.//*[@id="ctl00_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField"]//p
+.//*[@id="ctl00_PlaceHolderMain_ctl05__ControlWrapper_RichHtmlField"]//p
+.//*[@id="full"]/div
+.//*[@id="highlight"]//img/@src
+.//*[@id="image-header"]//h1
+.//*[@id="img-wrap"]
+.//*[@id="left_colum"]
+.//*[@id="left_colum"]//a[contains(@href,"pdf")]/@href
+.//*[@id="main"]
+.//*[@id="main"]//a[contains(@href,"pdf")]/@href
+.//*[@id="main"]/div/div[2]/h3
+.//*[@id="main-content"]
+.//*[@id="mainContentTd"]
+.//*[@id="mainContentTd"]//a[contains(@href,"pdf")]/@href
+.//*[@id="mainNewsDiv"]
+.//*[@id="otherNeirong"]
+.//*[@id="p-1"]
+.//*[@id="page"]
+.//*[@id="page"]|.//div[@id="content"]|.//div[@class="content"]
+.//*[@id="page-content"]
+.//*[@id="page-left"]/div[2]/div[1]
+.//*[@id="page-title"]
+.//*[@id="player"]
+.//*[@id="player"]|.//*[@class="row"]
+.//*[@id="post-2527"]/div/div[2]/div/p[1]/strong
+.//*[@id="post-content"]
+.//*[@id="post-title"]
+.//*[@id="publicationDetailArea"]
+.//*[@id="publicationDetailArea"]/div[1]/div/h1
+.//*[@id="research-header"]//h1
+.//*[@id="research-header"]//p
+.//*[@id="s5_center_column_wrap_inner"]
+.//*[@id="sitePageMainHeaderHgroup"]/h1
+.//*[@id="sites-canvas-main-content"]//td
+.//*[@id="spl01"]//img/@src
+.//*[@id="spl02"]/div/p[1]
+.//*[@id="sq_news_body"]
+.//*[@id="userAvatar"]/@src|.//*[@class="img_wrap"]/img/@src
+.//*[@id="userInfoNick"]|.//*[@class="user_info_name"]
+.//*[@id="vfc"]//li
+.//*[@itemprop="articleBody"]
+.//*[@itemprop="articleBody"]/p//a[contains(@href,"pdf")]/@href
+.//*[@itemprop="datePublished"]
+.//*[@itemprop="headline"]
+.//*[@itemprop="text"]
+.//*[@pubdate=""]
+.//*[@rel="category tag"]
+.//*[@role="article"]
+.//*[@role="article"]//strong
+.//*[@role="article"]/div/div[2]/p/strong[1]
+.//*[@role="main"]
+.//*[@role="main"]/div/div[2]
+.//*[@style=""]//strong
+.//*[@style="border-style:None;width:80px;"]
+.//*[@style="float:right;"]
+.//*[@style="font-size: 20px;font-weight: bold"]
+.//*[@style="font-weight: 400;"]/a[contains(@href,"pdf")]/@href
+.//*[@style="height: 100%; display: block; "]//img/@srcset
+.//*[@style="height:30px;"]//a
+.//*[@style="height:30px;"]/td[2]
+.//*[@style="height:initial"]//*[@class="font_9"]
+.//*[@style="text-align:center;white-space:pre-wrap;"]//em
+.//*[@style="text-align:right;white-space:pre-wrap;"]
+.//*[@style="white-space:pre-wrap;"]//strong
+.//*[@style="width: 100%;"]//a
+.//*[@style="width: 1105px;margin:0 auto"]//div[position()>2]
+.//*[@style="width:100px"]
+.//*[@style="width:70px;"]
+.//*[@style="width:90%;"]
+.//*[@target="_blank"]/div
+.//*[@title="View Larger"]//img/@src
+.//*[@valign="middle"]
+.//*[@valign="middle"]/span
+.//*[@width="35%"]
+.//*[@width="480"]
+.//*[@width="650"]//tr
+.//*[contains(@class,"content-section")]/h1[1]|.//h1[@class="page_title"]
+.//*[contains(@class,"img has_img")]/@style
+.//*[contains(@class,"site-article")]
+.//*[contains(@style,"padding-left: 30px;")]
+.//*[contains(text(),"Authors")]/../text()
+.//*[contains(text(),"Date:")]/../text()
+.//*[contains(text(),"Older")]/..
+.//@data-tid|.//@data-group-tid
+.//@href
+.//@title
+.//a
+.//a//@href
+.//a/@href
+.//a/@onclick
+.//a/@title
+.//a/span
+.//a/span[1]
+.//a/span[2]
+.//a/span[4]
+.//a/span[@class="le"]
+.//a/span[@class="ti"]
+.//a[1]/@href
+.//a[2]
+.//a[2]/@href
+.//a[3]
+.//a[3]/@href
+.//a[@align="left"]/@title
+.//a[@class="Blog-meta-item-category"]
+.//a[@class="audio"]/@href
+.//a[@class="boxlink sidephoto"]
+.//a[@class="btn btn-default btn-orange-outline download"]/@href
+.//a[@class="c-single-header__tag  ts-caption"]
+.//a[@class="category"]
+.//a[@class="date"]
+.//a[@class="detail_img"]/img/@src
+.//a[@class="download-link"]
+.//a[@class="e_click e_pdf"]/@href
+.//a[@class="entry-image flex-child-grow"]/@style
+.//a[@class="l ewb-link"]
+.//a[@class="l ewb-link"]/@href
+.//a[@class="next page-numbers"]
+.//a[@class="next"]
+.//a[@class="p-l-m-title pull-left"]
+.//a[@class="p-l-m-title pull-left"]/@href
+.//a[@class="person-name"]
+.//a[@class="project-name0 el"]
+.//a[@class="project-name0 el"]/@href
+.//a[@class="pub-company0 el"]
+.//a[@class="readmorecolor"]/..
+.//a[@class="summary__image"]/img/@src
+.//a[@class="title-txt fwb"]
+.//a[@class="title-txt fwb"]/@href
+.//a[@href="javascript:void(0);"]
+.//a[@target="_blank"]
+.//a[@target="_blank"]/@href
+.//a[@target="_blank"]/@title
+.//a[@target='_blank']/@href
+.//a[@target='_blank']/@title
+.//a[contains(@class,"kl-blog-post-author-link")]
+.//a[contains(@href, ".pdf")]/@href
+.//a[contains(@href,".pdf")]
+.//a[contains(@href,".pdf")]/@href
+.//a[contains(@href,"/authors/")]
+.//a[contains(@href,"/papers/")]
+.//a[contains(@href,"/workinggroups/papers/")]
+.//a[contains(@href,"adv_topics")]
+.//a[contains(@href,"author_id")]
+.//a[contains(@href,"doc.asp")]/@href|.//a[contains(@href,"pdf")]/@href
+.//a[contains(@href,"papersbyprog")]
+.//a[contains(@href,"pdf")]/@href
+.//a[contains(@href,'.pdf')]/@href
+.//a[contains(@href,'pdf')]/@href
+.//a[contains(@title, "Views blogs in ")]
+.//a[contains(text(),"Industries")]/../ul/li
+.//a[contains(text(),"Key Documents")]/../ul/li
+.//a[contains(text(),"Our Research")]/..//li
+.//a[contains(text(),"Regions")]/../ul/li
+.//a[contains(text(),"Themes")]/../ul/li
+.//a[contains(text(),"browse older papers")]
+.//article
+.//article//*[@class="edgtf-post-image"]//img/@src
+.//article//*[@class="edgtf-post-info-date entry-date updated"]
+.//article//a[contains(@href,"pdf")]/@href
+.//article//h1|.//*[@class="n-headline-people-content"]//h1|.//*[@id="page-intro"]/h1|.//h1[@class="heading-h1"]
+.//article/h1[@class="page-title"]/span
+.//article/p/a[contains(@href,"pdf")]/@href
+.//article[@class="detailBooks"]
+.//article[@class="jszb-content_article l"]
+.//article[@id="articles"]
+.//article[@id="left"]
+.//article[contains(@class, "post-list")]
+.//article[contains(@class,"summary")]
+.//b/a
+.//b[1]/text()
+.//b[@class="intro__date-group"]/text()
+.//body
+.//body/div[@class="container"]
+.//body/div[@class="par parsys"]
+.//body/div[contains(@id,"post-")]
+.//body/div[contains(@id,"post-")]//a[contains(@href,"pdf")]/@href
+.//body[@class="bgf5"]
+.//dd[@class="icon"]
+.//dd[@class="l-news-time pc"]
+.//div
+.//div/img/@src
+.//div[1]/a/img/@src
+.//div[@class=" f-right"]
+.//div[@class="ArticlePage-authorName"]/a
+.//div[@class="ArticlePage-datePublished"]
+.//div[@class="ArticlePage-tags"]/div
+.//div[@class="Blog-meta BlogItem-meta"]/time
+.//div[@class="BlogList-item-image"]//img/@data-src
+.//div[@class="Figure-container"]//img/@src
+.//div[@class="NewsText"]
+.//div[@class="PaginatedEntries row"]//div[@class="mb-4 PaginatedEntry row"]
+.//div[@class="Site-inner"]
+.//div[@class="Site-inner"]//a[contains(@href,"pdf")]/@href
+.//div[@class="W950 Top8 Center WhiteBg BorderCCC"]
+.//div[@class="_checkbox"]
+.//div[@class="_image"]/img/@src
+.//div[@class="abstract"]
+.//div[@class="abstract-text"]/p[1]
+.//div[@class="ac_block"]
+.//div[@class="article allow"]
+.//div[@class="article"]
+.//div[@class="article-body first-letter"]
+.//div[@class="article-body"]
+.//div[@class="article-excerpt article-excerpt-clamp"]/p
+.//div[@class="article-item"]/img/@src
+.//div[@class="article-item"]/p
+.//div[@class="article-results__cont"]/p
+.//div[@class="article-title"]
+.//div[@class="author"]
+.//div[@class="author"]//h3/a|.//div[@class="blogger-text"]//h1
+.//div[@class="author"]/span
+.//div[@class="author-by-line"]
+.//div[@class="author-name"]
+.//div[@class="authorprofile-item-view-link"]//a
+.//div[@class="authors authors-full-width"]/h2
+.//div[@class="b-content"]/p[1]
+.//div[@class="b-content"]/p[2]
+.//div[@class="bg-map"]
+.//div[@class="bgback"]/@style
+.//div[@class="block-region-main"]//a[contains(@href,"pdf")]/@href
+.//div[@class="block-region-main"]//div[@class="field field-name-body"]/p[1]
+.//div[@class="blog-content"]/p[1]//a/@href|.//div[@class="blog-content"]/div[@class="header"]//a/@href|.//a[contains(@href, ".pdf")]/@href
+.//div[@class="blog-item single"]
+.//div[@class="blog-tags"]//a
+.//div[@class="box pbNested pbNestedWrapper "]
+.//div[@class="box-container box-abstract-main"]/h1
+.//div[@class="box-container box-abstract-main"]/p[2]
+.//div[@class="box-link"]
+.//div[@class="box0"]
+.//div[@class="btn-area mod-mt30 mod-mb30"][1]/p/a/@href
+.//div[@class="c-container"]/div[3]//a
+.//div[@class="capability_box"]//li
+.//div[@class="categories pub_cat"]/text()[2]
+.//div[@class="channelBody"]
+.//div[@class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"]|.//section[@id="article-section-0"]/p
+.//div[@class="clearfix text-formatted field field--name-field-teaser field--type-text-long field--label-hidden field__item"]
+.//div[@class="col-md-11 col-md-offset-1 no-pl no-pr pub_article_banner_inner"]/img/@src
+.//div[@class="col-md-2 col-sm-4"]
+.//div[@class="col-md-8 content all"]
+.//div[@class="col-md-8 content all"]/p[1]
+.//div[@class="col-md-9 col-sm-9 content-area"]
+.//div[@class="col-md-9 page-title"]/h1
+.//div[@class="col-sm-12"]
+.//div[@class="col-sm-12"]/h1
+.//div[@class="col-sm-12"]/img[@class="img-responsive"]/@src
+.//div[@class="col-sm-4 author_sec"]/ul/li/span
+.//div[@class="col-sm-6 col-lg-4 blog-isotope-item kl-blog-column"]
+.//div[@class="col-xs-12 padding-left-thirty col-sm-9"]
+.//div[@class="col-xs-4 clear-padding"]/img/@src
+.//div[@class="colum_txt"]/p/span[@itemprop="datePublished"]/@content
+.//div[@class="colum_txt"]/p[1]/text()[2]
+.//div[@class="column large-9 medium-8"]//img/@src
+.//div[@class="column left width-75"]//a[contains(@href,"pdf")]/@href
+.//div[@class="company	fl f14 c6"]
+.//div[@class="con-detail"]
+.//div[@class="contain"]
+.//div[@class="container content"]//div[@class="col-md-9 col-sm-9 "]
+.//div[@class="container content"]//div[@class="col-md-9 col-sm-9 "]//a[contains(@href,"pdf")]/@href
+.//div[@class="container tcb-wrapper"]
+.//div[@class="container"]
+.//div[@class="container-fluid cfcpn_container_list-bg"]
+.//div[@class="container-fluid"]
+.//div[@class="container-fluid"]//a[contains(@href,"pdf")]/@href
+.//div[@class="container_downloads"]//a[contains(@href,"pdf")]/@href
+.//div[@class="content fixed"]
+.//div[@class="content hk"]
+.//div[@class="content"]
+.//div[@class="content"]//a[contains(@href,"pdf")]/@href
+.//div[@class="content"]//h4
+.//div[@class="content"]//li
+.//div[@class="content"]//section[1]/p[last()]
+.//div[@class="content"]/div[@class="container"]
+.//div[@class="content"]/div[contains(text(),"Topics")]
+.//div[@class="content-inner prose"]
+.//div[@class="content-inner"]/div/article/h1/div[1]/span
+.//div[@class="content-list"]
+.//div[@class="content-wrapper"]
+.//div[@class="contentShow"]
+.//div[@class="content_all_nr"]
+.//div[@class="content_right"]/span
+.//div[@class="contents-container contents-container-pane-blog-by-issues-panel-pane-1"]//div[@class="view-content"]//li
+.//div[@class="contentwrap report"]
+.//div[@class="contentwrap report"]/h1/text()
+.//div[@class="contentwrap"]/h2/a
+.//div[@class="date"]
+.//div[@class="date"]//span
+.//div[@class="date-and-byline"]/a
+.//div[@class="date-of-release"]
+.//div[@class="deck-content"]
+.//div[@class="desc"]
+.//div[@class="detail"]/p/a |.//div[@class="detail"]/p/text()
+.//div[@class="detail_area"]
+.//div[@class="detailed-record-content"]
+.//div[@class="details"]/div[@class="media"]/img/@src
+.//div[@class="digbib-list"]/div[contains(@class,"row digbib-list-item")]
+.//div[@class="display-date pane-node-field-display-date"]
+.//div[@class="divAbs"]
+.//div[@class="dl"]/a/@href
+.//div[@class="edgtf-post-info-bottom-left"]//a
+.//div[@class="empowerment"]//li
+.//div[@class="entry"]
+.//div[@class="entry"][position()<4]
+.//div[@class="entry-content content"]/div[@class="article-footer"][1]//div[@class="author-details vertical-center"]/a
+.//div[@class="entry-content"]
+.//div[@class="entry-content"]//strong[contains(text(),"By")]
+.//div[@class="entry-content"]/a[1]/@href
+.//div[@class="entry-content"]/div/span
+.//div[@class="entry-content"]/h5
+.//div[@class="entry-content"]/p/text()
+.//div[@class="entry-post"]/p
+.//div[@class="entry-summary"]/p/text()
+.//div[@class="entry_photo"]/img/@src
+.//div[@class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left"]/div[@class="et_pb_text_inner"]/p[position()<11][position()>3]
+.//div[@class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left"]/div[@class="et_pb_text_inner"]/p[position()<4]
+.//div[@class="excerpt the-content"]
+.//div[@class="expert-name"]
+.//div[@class="f-right"]
+.//div[@class="featured"]//img/@src
+.//div[@class="field field--name-field-author field--type-entity-reference field--label-inline"]//div[@class="field__item"]
+.//div[@class="field field--name-field-date-issued-text field--type-datetime field--label-inline"]//div[@class="field__item"]
+.//div[@class="field field--name-field-event-image field--type-image field--label-hidden"]/img/@src
+.//div[@class="field field--name-field-image field--type-image field--label-hidden clearfix field--item"]/img/@src
+.//div[@class="field field--name-field-image field--type-image field--label-visually_hidden clearfix"]//img/@src
+.//div[@class="field field--name-field-media-thumb field--type-image field--label-hidden"]/img/@src
+.//div[@class="field field--name-field-pub-cover-image field--type-image field--label-hidden field--item"]//img/@src
+.//div[@class="field field--name-field-subtitle field--type-string-long field--label-hidden field--item"]
+.//div[@class="field field-name-body"]
+.//div[@class="field field-name-field-abstract field-type-text-long field-label-above"]/div[@class="field-items"]
+.//div[@class="field field-name-field-author field-type-text field-label-above"]/div[@class="field-items"]//div
+.//div[@class="field field-name-field-news-date field-type-datetime field-label-hidden"]
+.//div[@class="field field-name-field-news-story-lead field-type-text-long field-label-hidden"]
+.//div[@class="field field-name-field-news-topics field-type-entityreference field-label-hidden"]//a
+.//div[@class="field field-name-field-policy-type field-type-taxonomy-term-reference field-label-hidden"]/div[@class="field-items"]/div[@class="field-item even"]
+.//div[@class="field field-name-field-sub-title field-type-text-long field-label-hidden"]
+.//div[@class="field field-name-field-tref-section"]
+.//div[@class="field--name-field-media-image"]//figure/@src
+.//div[@class="field--name-node-post-date"]
+.//div[@class="field-blurb field-name-field-research-teaser"]
+.//div[@class="field-blurb"]
+.//div[@class="field-content"]
+.//div[@class="field-img field-name-field-research-img"]//img/@src
+.//div[@class="field-item even"]
+.//div[@class="field-items"]
+.//div[@class="field-media-top"]//img/@src
+.//div[@class="file-link"]/a/@href
+.//div[@class="filter_box"]//option
+.//div[@class="fl name"]/a/span
+.//div[@class="frameStyle"]
+.//div[@class="full-screen-con" ]
+.//div[@class="fusion-post-content-container"]
+.//div[@class="fxb-col-6"]
+.//div[@class="golden-two-region golden-two-region--first main-column-region"]
+.//div[@class="golden-two-region golden-two-region--first main-column-region"]//*[@class="authors"]/a
+.//div[@class="golden-two-region golden-two-region--first main-column-region"]//*[@class="date"]
+.//div[@class="grid-box  grid-box-last grid-box-boell_rss"]/div[@class="grid-box-inner"]
+.//div[@class="group-content"]
+.//div[@class="group-content"]//h1
+.//div[@class="group-left"]//div[@class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"]
+.//div[@class="gutter-half-bottom--mobile"]
+.//div[@class="hammer"]/span
+.//div[@class="hammer"]/span[1]
+.//div[@class="hammer"]/span[2]
+.//div[@class="header-wrap"]//div[@class="author-details"]/h5
+.//div[@class="header-wrap"]//h5[1]
+.//div[@class="header-wrap"]/h1
+.//div[@class="heading-zone-title"]/h1
+.//div[@class="heading-zone-title-date"]/time
+.//div[@class="headingNews text"]
+.//div[@class="headlines"]
+.//div[@class="hoov-teaser-first panel-panel"]//img/@src
+.//div[@class="hp_excerpt"]
+.//div[@class="image-holder col-sm-6 col-md-4"]
+.//div[@class="image-post"]/img/@src
+.//div[@class="image_container"]//img/@src
+.//div[@class="imagepreview"]/img/@src
+.//div[@class="imgcaption-l MSM_NestedBlock pbNested pbNestedWrapper"]
+.//div[@class="imgcaption-l pbNested pbNestedWrapper "]
+.//div[@class="info"]/div[@class="author"]/a
+.//div[@class="info"]/div[@class="date"]
+.//div[@class="info"]/h1
+.//div[@class="info-float-right"]//*[@class="date-display-single"]
+.//div[@class="infoblock"]//div[@class="right"][last()]/a[@class="name"]
+.//div[@class="infolist-main bidlist"]/ul/li
+.//div[@class="inner"]//a[contains(@href,"pdf")]/@href
+.//div[@class="inner"]/dl/dd
+.//div[@class="inner"]/h2/text()
+.//div[@class="innerContentTitle"]
+.//div[@class="intrinsic"]//img/@src
+.//div[@class="introduction"]//h2/a
+.//div[@class="item"]
+.//div[@class="item-area"]/a[1]
+.//div[@class="itemIntroText kl-blog-item-content"]
+.//div[@class="itemTagsBlock kl-blog-post-tags kl-font-alt"]/a
+.//div[@class="itemView clearfix eBlog kl-blog kl-blog-list-wrapper kl-blog--style-light "]//a[contains(@href,"pdf")]/@href
+.//div[@class="item__block__content"]/p
+.//div[@class="item__block__desc"]//img/@src
+.//div[@class="js-masory"]/div
+.//div[@class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-14220"]//div[@class="row"]
+.//div[@class="l ewb-purchaser"]
+.//div[@class="l-content"]
+.//div[@class="l-contents"]
+.//div[@class="l-day"]
+.//div[@class="l-floatImg-flex"]/div[@class="_content"]
+.//div[@class="l-main l-no-sidebars"]
+.//div[@class="l-main l-one-sidebar"]
+.//div[@class="l-main"]
+.//div[@class="l-page"]
+.//div[@class="l__content"]/div//img/@src
+.//div[@class="largest-text"]
+.//div[@class="layout"]
+.//div[@class="left-column"]
+.//div[@class="line_content"]
+.//div[@class="list-detail"]
+.//div[@class="list-right_title fon_1"]/a
+.//div[@class="list-right_title fon_1"]/a/@href
+.//div[@class="list-t2"][1]
+.//div[@class="list-times"]
+.//div[@class="list-times-old"]
+.//div[@class="list1x"]//li
+.//div[@class="list__item"]
+.//div[@class="lower-wrapper"]//p
+.//div[@class="main"]
+.//div[@class="main-container container"]
+.//div[@class="main-top"]/div
+.//div[@class="mainContent"]
+.//div[@class="mainWraper-box"]
+.//div[@class="main_right "]
+.//div[@class="maincontents"]
+.//div[@class="maincontents"]//a[contains(@href,"pdf")]/@href
+.//div[@class="maincontents"]/h1
+.//div[@class="maincontents"]/p[1]
+.//div[@class="masonry-content"]
+.//div[@class="media_asset_container "]
+.//div[@class="mediapage"]//div[@class="container mediapage-shows"][1]//div[@class="col-lg-3 col-6 mediapage-shows-items"]
+.//div[@class="meta-author-wrapped"]/span
+.//div[@class="meta-heading"]
+.//div[@class="meta-item date"]
+.//div[@class="mleft"]
+.//div[@class="mod-pager"][2]//p[@class="next"]
+.//div[@class="monitor-content end-themen clearfix"]/div/img/@src
+.//div[@class="monitor-content end-themen clearfix"][1]//p[1]
+.//div[@class="monitor-header no-collapse"]
+.//div[@class="monitor-header"]
+.//div[@class="more"]
+.//div[@class="name"]
+.//div[@class="name_btn"]
+.//div[@class="name_btn"]/span
+.//div[@class="news news-single-view"]
+.//div[@class="news news-single-view"]//img/@src
+.//div[@class="news"]
+.//div[@class="news-article articletype_0"]
+.//div[@class="news-item"]
+.//div[@class="news-title"]
+.//div[@class="news_box_post_desc"]
+.//div[@class="news_box_post_desc"]//a[contains(@href,"pdf")]/@href
+.//div[@class="news_box_post_desc"]/p[2]
+.//div[@class="news_box_post_meta"]
+.//div[@class="news_box_post_meta"]//a
+.//div[@class="news_con"]
+.//div[@class="news_content"]
+.//div[@class="newsneiye"]
+.//div[@class="node-content"]
+.//div[@class="noticeBox"]
+.//div[@class="notice_details_left pull-left"]
+.//div[@class="ny_zb_con"]|.//div[@class="span-f"]
+.//div[@class="one-row-metadata value"]/a
+.//div[@class="page-title"]
+.//div[@class="page-type page-type-"]
+.//div[@class="page_container tabs_container mar-t-10 mar-b-10"]
+.//div[@class="panel-content-inner"]//li
+.//div[@class="panel-pane pane-node-title"]
+.//div[@class="panel-pane pane-node-title"]//h1
+.//div[@class="panel-top"]//img/@src
+.//div[@class="paragraph pbNested pbNestedWrapper "]
+.//div[@class="pdfprnt-buttons pdfprnt-buttons-post pdfprnt-bottom-left"]/a[contains(@href,"pdf")]/@href
+.//div[@class="policy-brief-index__ttl"]
+.//div[@class="policy-brief-index__txt"]
+.//div[@class="post-author col col-75"]
+.//div[@class="post-content paywall"]
+.//div[@class="post-content paywall"]/h1
+.//div[@class="post-date col col-25"]/ul[@class="clean-list"]/li[1]
+.//div[@class="post-date"]|.//div[@class="event-start"]//time
+.//div[@class="post-excerpt"]/p/text()
+.//div[@class="post-header"]/@style
+.//div[@class="post-meta"][3]
+.//div[@class="post__date"]
+.//div[@class="post_banner post_banner_8"]//img/@src
+.//div[@class="press-release-part"]
+.//div[@class="press-release-part"]//h4
+.//div[@class="press-release-part"]//h7
+.//div[@class="product-teaser-container dotted-line"]
+.//div[@class="product_info"]/img/@src
+.//div[@class="pt-cv-page"]/div
+.//div[@class="pub-heading__hero pub-heading__hero--img"]//img/@src
+.//div[@class="pub_article_title"]|//h1
+.//div[@class="publication-description"]/h1
+.//div[@class="published-at"]|.//div[@class="date"]
+.//div[@class="r_col"]
+.//div[@class="region region-content"]
+.//div[@class="region region-content"]//a[contains(@href,"pdf")]/@href
+.//div[@class="region region-content"]//h2
+.//div[@class="registerRegionFrameMid"]
+.//div[@class="related-topics"]//a
+.//div[@class="related-topics-container"]/a
+.//div[@class="research-authors"]//*[@class="field--item"]
+.//div[@class="research-download"]/a/@href
+.//div[@class="research__downloads"]//a[contains(@class, "button")]/@href
+.//div[@class="resource-author"]
+.//div[@class="result-title"]/a
+.//div[@class="right_con"]
+.//div[@class="row before-content"]//h1[@class="story-title"]
+.//div[@class="row before-content"]//img/@src
+.//div[@class="row body-container"]|.//div[@id="cs-content"]
+.//div[@class="row full-down"]
+.//div[@class="row full-down"]//a[contains(@href,"pdf")]/@href
+.//div[@class="row notes-row"]
+.//div[@class="row publication-item"]
+.//div[@class="row publication-list-item"]//dt
+.//div[@class="row section-content"]//a[contains(@href,"pdf")]/@href
+.//div[@class="row section-content"]//div[@class="description js-fulldescription"]
+.//div[@class="row section-content"]//picture//img/@src
+.//div[@class="row"]
+.//div[@class="row"]//a[contains(@href,"pdf")]/@href
+.//div[@class="row"]//ul[2]//a[contains(@href,"/topics/")]
+.//div[@class="row"]/div[@class="column"]//p
+.//div[@class="rwd-container"]
+.//div[@class="section container"]
+.//div[@class="section secface_ws mt20"]
+.//div[@class="sidebar"]//a[contains(@href,"pdf")]/@href
+.//div[@class="sidebar"]//img/@src
+.//div[@class="simple-item-view-other word-break"]
+.//div[@class="single-papers single-papers-list"]
+.//div[@class="single-pricing box-clickable"]/a
+.//div[@class="singleHang"]
+.//div[@class="site-content"]
+.//div[@class="stimson-date-time"]/h3
+.//div[@class="stimson-date-time"]/h3/span
+.//div[@class="stimson-master-header"]/h1
+.//div[@class="summary_content"]
+.//div[@class="tag-wrap"]
+.//div[@class="tagcloud clearfix"]/a
+.//div[@class="tags"]/a
+.//div[@class="tags-inline"]
+.//div[@class="tease"]
+.//div[@class="tease__content"]
+.//div[@class="tender_tdivcon"]
+.//div[@class="text fl"]/a/@href
+.//div[@class="text fl"]/a/@title
+.//div[@class="text-info"]
+.//div[@class="tg-item-inner"]//span[@class="tg-cats-holder"]/a/span[@style="color:#0088cc"]
+.//div[@class="thumbnail"]//img/@src
+.//div[@class="time curr"]
+.//div[@class="time-stamp"]
+.//div[@class="title"]
+.//div[@class="title"]/h1
+.//div[@class="title"]/h2
+.//div[@class="title-placeholder"]
+.//div[@class="title-wrapper container"]/h1
+.//div[@class="titleList_02"]
+.//div[@class="top flex news_date"]/time
+.//div[@class="tx-digbib"]//p
+.//div[@class="unit size1of6"][1]
+.//div[@class="utility"]/span[@id="byline"]/a
+.//div[@class="utility"]/span[@id="dateline"]
+.//div[@class="vF_detail_main"]
+.//div[@class="vc_pageable-slide-wrapper vc_clearfix"]/div
+.//div[@class="view-content"]//li
+.//div[@class="view-content"]/div
+.//div[@class="views-field views-field-body"]
+.//div[@class="views-field views-field-body"]//span[@class="field-content"]
+.//div[@class="views-field views-field-field-blog-author-teaser-value"]//p
+.//div[@class="views-field views-field-field-research-first-p"]/div
+.//div[@class="views-field views-field-field-short-description-1"]
+.//div[@class="views-field views-field-title"]
+.//div[@class="views-field views-field-title"]//h2
+.//div[@class="views-field-field-research-date-value"]
+.//div[@class="views-field-field-research-synopsis-value"]
+.//div[@class="views-field-title"]/a
+.//div[@class="views-field-title"]/a/@href
+.//div[@class="views-row"]
+.//div[@class="views-row"]/div/a
+.//div[@class="views-view-grid horizontal cols-3 clearfix"]//article[@class="feature"]
+.//div[@class="w1024 auto"]
+.//div[@class="wmle_post_excerpt"]/a/p
+.//div[@class="wp-caption aligncenter"]//img/@src
+.//div[@class="wpb_wrapper"]/div[@class="vc_row wpb_row vc_inner vc_row-fluid"][position()>1]
+.//div[@class="wrapper"]
+.//div[@class="wrp-main-inner"]
+.//div[@class="xl_box"]
+.//div[@class="xq"]
+.//div[@class="zbdt-news-item-date"]
+.//div[@class="zone-title__summary component"]
+.//div[@data-module="MediaFactory"]/@data-img-ph-src
+.//div[@data-tab-section-id="amicus-briefs"]//li
+.//div[@data-tab-section-id="better-government-competition"]//li
+.//div[@data-tab-section-id="pioneer-education"]//li
+.//div[@data-tab-section-id="pioneer-health"]//li
+.//div[@data-tab-section-id="pioneer-opportunity"]//li
+.//div[@data-tab-section-id="pioneer-public"]//li
+.//div[@data-tab-section-id="public-testimony"]//li
+.//div[@data-tab-section-id="transcripts"]//li
+.//div[@id="Content"]
+.//div[@id="area0"]//li
+.//div[@id="area0"]//tr/td[1]
+.//div[@id="areaWrapper2"]//div[@class="pbNested "]//a[contains(@href,"pdf")]/@href
+.//div[@id="areaWrapper2"]//div[@class="pbNested "]//a[contains(@href,"xls")]/@href
+.//div[@id="areaWrapper2"]//div[@class="pbNested "]/div[3]
+.//div[@id="areaWrapper2"]//div[@class="pbNested "]/div[4]
+.//div[@id="areaWrapper2"]//div[@class="pbNested "]/div[5]
+.//div[@id="areaWrapper2"]//div[@class="pbNested pbNestedWrapper "]//h2
+.//div[@id="block-system-main"]//div[contains(@class,"views-row views-row-")]
+.//div[@id="block-system-main"]/div[@class="content"]
+.//div[@id="block-views-term-node-count-block-1"]//div[contains(@class,"views-row views-row-")]
+.//div[@id="bodyshell"]//a[contains(@href,"pdf")]/@href
+.//div[@id="centercolumn"]//li/a
+.//div[@id="comp-inaa8cvq"]
+.//div[@id="container_content"]
+.//div[@id="content"]
+.//div[@id="content"]//a[contains(@href,"pdf")]/@href
+.//div[@id="content"]//h1
+.//div[@id="content"]/div[position()<11]//div[@class="my-excerpt"]/div[@class="my-excerpt"]
+.//div[@id="contentCol"]
+.//div[@id="contentCol"]//h1
+.//div[@id="content_area"]
+.//div[@id="content_area"]//a[contains(@href,"pdf")]/@href
+.//div[@id="content_area"]//img/@src
+.//div[@id="content_area"]/h1/span
+.//div[@id="ctl00_CPH_Body_p_Teaser"]
+.//div[@id="dp-container"]
+.//div[@id="eastern-mediterranean-project"]//div[@class="ac_block"]
+.//div[@id="et-boc"]
+.//div[@id="field-page-content"]
+.//div[@id="headTools"]/h1
+.//div[@id="header-container"]//h1
+.//div[@id="img-canvas"]/img/@src
+.//div[@id="j_id61_body"]
+.//div[@id="js-az-index"]//div[@class="item"]
+.//div[@id="l-topicsJournal"]/div
+.//div[@id="main"]
+.//div[@id="main"]//a[contains(@href,"pdf")]/@href
+.//div[@id="main-container"]
+.//div[@id="main-wrapper"]|//div[@class="pub-content__wrapper"]
+.//div[@id="mainArea"]
+.//div[@id="mainArea"]//div[@class="text-box pbNested pbNestedWrapper "]//p/a
+.//div[@id="maincontent"]/div[@class="row"][2]
+.//div[@id="maincontent"]/div[@class="row"][2]//a[contains(@href,"pdf")]/@href
+.//div[@id="ourExperts"]//h3[@class="center text-center"]|.//li[@class="content-li"]/p/a
+.//div[@id="pbBlock1040336"]//div/p/a[contains(@href,"pdf")]/..
+.//div[@id="primary"]
+.//div[@id="primary"]|.//div[@id="content"]
+.//div[@id="primary-left"]
+.//div[@id="printSection"]
+.//div[@id="publications"]//li
+.//div[@id="qt-devpolicy_aapr_tabs-ui-tabs1"]//p//a[not(contains(@href,"pdf"))]
+.//div[@id="qt-devpolicy_aapr_tabs-ui-tabs2"]//p//a[not(contains(@href,"pdf"))]
+.//div[@id="qt-devpolicy_aapr_tabs-ui-tabs3"]//p//a[not(contains(@href,"pdf")) and not( contains(@href,"zip"))]
+.//div[@id="qt-devpolicy_aapr_tabs-ui-tabs4"]//p//a[not(contains(@href,"pdf"))]
+.//div[@id="qt-devpolicy_aapr_tabs-ui-tabs5"]//p
+.//div[@id="releasedate"]
+.//div[@id="results-grid"]//div[contains(@class,"report span8 ")]
+.//div[@id="searchresult"]//li
+.//div[@id="skipToMain"]
+.//div[@id="skipToMain"]//a[contains(@href,"pdf")]/@href
+.//div[@id="tempclosediv"]
+.//div[@id="wrap"]
+.//div[@id="wrapper"]
+.//div[@id="xilanzt"]
+.//div[@style="width:136px;"]/p
+.//div[contains(@class, "entry")]/p//img/@src
+.//div[contains(@class, "view-all-post")]
+.//div[contains(@class,"authors")]/span[contains(@class,"author")]
+.//div[contains(@class,"content-area")]/h2|.//div[@class="lead"]
+.//div[contains(@class,"desc")]/p
+.//div[contains(@class,"field--name-field-summary")]/div
+.//div[contains(@class,"l-main")]
+.//div[contains(@class,"main-content")]
+.//div[contains(@class,"news_box_latest row-fluid")]
+.//div[contains(@class,"press-release-part")]
+.//div[contains(@class,"press-release-part")]//h4
+.//div[contains(@class,"press-release-part")]//h7|.//div[@class="event-basic-info"]/text()
+.//div[contains(@class,"summary__text")]/p[1]
+.//div[contains(@class,"views-row views-row-")]
+.//div[contains(@class,"zone-main")]
+.//div[contains(@class,"zone-title__summary")]/text()
+.//div[contains(@data-q_id,"blog")]//a[contains(text(),"VIEW MORE")]
+.//div[contains(@data-q_id,"blog")]//li
+.//div[contains(@data-q_id,"books")]//a[contains(text(),"VIEW MORE")]
+.//div[contains(@data-q_id,"books")]//li
+.//div[contains(@data-q_id,"commentary")]//a[contains(text(),"VIEW MORE")]
+.//div[contains(@data-q_id,"commentary")]//li
+.//div[contains(@data-q_id,"featured")]//li
+.//div[contains(@data-q_id,"podcast")]//a[contains(text(),"VIEW MORE")]
+.//div[contains(@data-q_id,"podcast")]//li
+.//div[contains(@data-q_id,"studies")]//a[contains(text(),"VIEW MORE")]
+.//div[contains(@data-q_id,"studies")]//li
+.//div[contains(@data-q_id,"videos")]//a[contains(text(),"VIEW MORE")]
+.//div[contains(@data-q_id,"videos")]//li
+.//div[contains(@id,"post-")]//div/h2/a[contains(@href,"cpd.org.au")]
+.//div[contains(text(), "By ")]
+.//div[contains(text(),"TOPICS")]/..//a
+.//dl[@class="archive"]/dd
+.//dl[@class="author"]/dt
+.//dl[@class="l-news-topic clearfix"]
+.//dl[@class="right"]/dd
+.//dt
+.//dt/span/img/@src
+.//dt[text() = "Authors"]/following-sibling::dd[1]
+.//em
+.//em/a
+.//em/a/@href
+.//file_title
+.//font
+.//font[@color="#000000"]
+.//font[@color="red"]
+.//font[@color='#FF0000']
+.//font[@style="font-size:16px;"]
+.//font[contains(@color,"#0000")]
+.//form[@class="button"]/@action
+.//form[@name="wpv-filter-1543-TCPID65"]//select[@name="wpvpublicationcategory"]/option[position()>1]
+.//h1
+.//h1/../time
+.//h1[@class="ArticlePage-headline"]
+.//h1[@class="BlogItem-title"]
+.//h1[@class="color-dark fw-light mar-b-20 mar-t-0"]
+.//h1[@class="down title-header-b"]
+.//h1[@class="entry-title"]
+.//h1[@class="entry-title"]|.//h1[@id="page-title"]
+.//h1[@class="field field--name-field-title field--type-string field--label-hidden field__item"]
+.//h1[@class="field-content"]
+.//h1[@class="field-content"]|.//div[@class="blogger-text"]//h1
+.//h1[@class="field-title"]
+.//h1[@class="heading-h1"]
+.//h1[@class="headline nga-animate"]|.//div[@class="sticky-share-title"]
+.//h1[@class="impact-title"]
+.//h1[@class="ip-title"]
+.//h1[@class="main-heading"]
+.//h1[@class="news-detail-title"]
+.//h1[@class="page-header"]
+.//h1[@class="page-title kl-blog-post-title entry-title"]
+.//h1[@class="page-title"]
+.//h1[@class="page-title"]|.//div[@id="main"]//h1|.//h1[@class="title"]
+.//h1[@class="post-title single"]
+.//h1[@class="post_title"]
+.//h1[@class="product-title"]
+.//h1[@class="roman-normal-bold"]
+.//h1[@class="ui header"]|.//h3[@class="subhead"]|.//div[@class="ui huge header sans-serif"]|.//h1[@class="page-title"]|.//div[@id="first-line-text"]
+.//h1[@id="page-title"]
+.//h1[@id="title"]/span[@class="a-size-medium a-color-secondary a-text-normal"][3]
+.//h1[contains(@class,"title")]
+.//h1|.//h2
+.//h2
+.//h2/..
+.//h2/a
+.//h2/span
+.//h2[@class="bibtop citation_author"]/a
+.//h2[@class="block-title block-title--content-home"]
+.//h2[@class="ds-div-head"]
+.//h2[@class="headline-article"]
+.//h2[@class="midashi lora"]/text()
+.//h2[@class="nf-hdg2-01  "]
+.//h2[@class="sttl"]
+.//h2[@class="title-small font-weight-600 blog-headline entry-title blog-single-page-title no-margin-bottom"]
+.//h2[@class="title-small font-weight-600 blog-headline entry-title blog-single-page-title no-margin-bottom"]|.//div[@class="wpb_wrapper"]/h2
+.//h2[@class="ttl-column"]
+.//h3
+.//h3/a
+.//h3/a/@href
+.//h3[@class="article-single-heading"]
+.//h3[@class="edgtf-post-title entry-title"]
+.//h3[@class="mod-ttl-content"]/..
+.//h3[@class="sttl"]
+.//h3[@class="title"]/a/@href
+.//h3[@class="title"]/a/@title
+.//h4
+.//h4/a/@href
+.//h4[@class="byline"]
+.//h4[@class="byline"]/a
+.//h4[@class="event-date"]
+.//h5
+.//h5/a/@href
+.//h5[@class="bigButton large"]/a[contains(@href,'pdf')]/@href|.//a[@class="button-big"][contains(@href,'pdf')]/@href|.//h5[@class="bigButton large register"]/a[contains(@href,'pdf')]/@href
+.//h5[@class="news-detail-header"]
+.//h5[@class="nf-hdg5-01  "]
+.//h5[@class="pub-heading__author"]
+.//h5[@class="text-color-red"]
+.//h5[@class="writer"]/a
+.//h6
+.//h6[@class="heading backcolr singlepage"]
+.//h6[@class="heading backcolr singlepage"]|.//h4[@class="heading backcolr singlepage"]
+.//h6[@class="pub-heading__date"]|.//div[@class="categories pub_cat"]/text()[2]
+.//header//h1
+.//header[@class="page__header"]
+.//header[@class="page__header"]/p[@class="meta"]
+.//i
+.//iframe/@src|.//a[contains(@href,"pdf")]/@href
+.//img/@data-src
+.//img/@src
+.//img[@class="drop-shadow"]/@src
+.//img[@class="owl-lazy img-responsive"]/@data-src
+.//img[@itemprop="image"]/@src
+.//img[@typeof="foaf:Image"]/@src
+.//img[contains(@class,"image")]/@src
+.//label
+.//li
+.//li/../@href
+.//li//a[@class="active"]
+.//li/span[1]
+.//li/span[2]
+.//li[2]
+.//li[@class="col col-33"]//h3//a
+.//li[@class="col col-50"]//h3//a
+.//li[@class="company"]/a
+.//li[@class="content-li"]/p/a
+.//li[@class="date"]
+.//li[@class="expanded col-md-3 dropdown"]/ul/li
+.//li[@class="iauthor"]
+.//li[@class="idate"]
+.//li[@class="issue"]/a
+.//li[@class="ititle"]
+.//li[@class="jc_list_down1"]/a
+.//li[@class="jc_list_down1"]/a/@href
+.//li[@class="jc_list_down2"]
+.//li[@class="node-readmore first last"]
+.//li[@class="noidx"]//a[contains(@href,"pdf")]/@href
+.//li[@class="pager-next"]
+.//li[@class="past-issue"]
+.//li[@class="subissue"]/a
+.//li[@class="zx-item-time"]
+.//li[@class="zx-item-topic"]/a
+.//li[@class="zx-item-topic"]/a/@href
+.//li[@id="li_Paging_forward"]
+.//li[@id="menu-item-37803"]/ul//li
+.//li[contains(@class, "menu__item is-leaf")][position() < 21]
+.//link[@name="image_src"]/@href
+.//main
+.//main//a[contains(@href,"pdf")]/@href
+.//main/article
+.//main/div[@class="read"]/p[2]
+.//main/h1
+.//main[@class="nf-main"]
+.//main[@class="row l-main"]
+.//main[@class="site__main container row -exact print-only"]
+.//main[@id="content"]//div[@class="region region-content"]
+.//main[@id="main"]
+.//meta[@property="og:image"]/@content
+.//p
+.//p/em/strong
+.//p/strong[contains(text(),"Authors")]/../text()
+.//p[1]
+.//p[2]
+.//p[@align="right"]
+.//p[@class=" link-pdf"]/a/@href
+.//p[@class="_image"]/img/@src
+.//p[@class="_outline"]
+.//p[@class="article"]
+.//p[@class="article-image"]/img/@src
+.//p[@class="articleText hiddenSmall"]
+.//p[@class="author"]
+.//p[@class="author"]/a
+.//p[@class="blue_btn pdf_btn"]/a/@href
+.//p[@class="bodytext"]
+.//p[@class="byline hidden-links"]
+.//p[@class="byline hidden-links"]/a
+.//p[@class="c-card__excerpt ts-small"]
+.//p[@class="c-content-tile__body__meta-2 ts-meta-2 js-content-check__meta-2"]/a
+.//p[@class="cfcpn_list_date text-right"]
+.//p[@class="cfcpn_list_title"]/a
+.//p[@class="cfcpn_list_title"]/a/@href
+.//p[@class="date mar-b-5"]
+.//p[@class="date"]
+.//p[@class="dateline"]
+.//p[@class="entry-excerpt nomobile"]
+.//p[@class="entry-excerpt"]
+.//p[@class="excerpt"]
+.//p[@class="f_r"]
+.//p[@class="fr"]
+.//p[@class="head"]
+.//p[@class="image"]//img/@src
+.//p[@class="mar-b-5 date tt-u"]
+.//p[@class="meta"][1]
+.//p[@class="meta"][2]/text()[2]
+.//p[@class="mod-btn-large mod-btn-emp mod-center"]
+.//p[@class="mod-text-right"]
+.//p[@class="name"]
+.//p[@class="news_date"]
+.//p[@class="pdf"]/a/@href
+.//p[@class="tags -iconed"]/a
+.//p[@class="tg-item-excerpt"]
+.//p[@class="tile-archive__excerpt"]
+.//p[@class="zbtxtb"]//a
+.//p[@class="zbtxtb"]//a/@href
+.//p[@class="zbtxtd"]
+.//p[@itemprop="author"]/span[@itemprop="name"]
+.//p[@itemprop="description"]
+.//p[@style="font-size: 11.5pt;"]
+.//p[@style="margin:0;"]/b
+.//p[@style="margin:0;"]/i
+.//p[@style="text-align:center; font :bold; font-size: 12pt"]
+.//p[@style="text-align:left;"]
+.//p[@style="text-align:right;font-size: 11pt"]
+.//p[contains(text(),"Key words:")]
+.//picture//img/@src
+.//section
+.//section//*[@class="byline"]
+.//section//*[@class="date"]
+.//section//a[contains(@href,"pdf")]/@href
+.//section//h1
+.//section/div/section/article//div[5]//ul/li
+.//section[@class="col-sm-9"]
+.//section[@class="col-sm-9"]//a[contains(@href,"pdf")]/@href
+.//section[@class="col-sm-9"]//img/@src
+.//section[@class="content"]/p[1]
+.//section[@class="contents reportPart"]
+.//section[@class="entry_title"]/h1
+.//section[@class="entry_title"]/p
+.//section[@class="policy-resources"]//div[@class="row"]
+.//section[@id="content"]
+.//select[@id="categories"]/option
+.//select[@id="p_lt_ctl06_pageplaceholder_p_lt_ctl01_CustomNewsFilter_filterControl_ddlCategories"]/option[position()>1]
+.//select[@name="dropdown2"]/option[position()>2]
+.//small
+.//span
+.//span/@onclick
+.//span/@title
+.//span/a
+.//span/a/@href
+.//span/a[@class="navtrail"][last()]
+.//span/text()
+.//span[1]
+.//span[1]/a
+.//span[1]/a/@href
+.//span[2]
+.//span[2]/a
+.//span[2]/a/@href
+.//span[3]
+.//span[@class = "list-text"]/@title
+.//span[@class = "timedate"]
+.//span[@class="area"]
+.//span[@class="area-value0 el"]
+.//span[@class="article-list-date"]
+.//span[@class="article-list-text"]
+.//span[@class="author dbpage"]//a
+.//span[@class="author dbpage"]/span/a
+.//span[@class="author notFaded"]/a
+.//span[@class="author"]
+.//span[@class="author"]/a
+.//span[@class="author_set"]
+.//span[@class="bidDate"]
+.//span[@class="bidLink"]
+.//span[@class="black-text"]
+.//span[@class="byline"]
+.//span[@class="cat-links"]/a
+.//span[@class="date dbpage"]
+.//span[@class="date"]
+.//span[@class="date-display-single"]
+.//span[@class="date-product"]
+.//span[@class="date_set"]
+.//span[@class="details_rightD fr"]
+.//span[@class="dt"]
+.//span[@class="emLevel_0"]
+.//span[@class="ewb-con-date r"]
+.//span[@class="ewb-date"]
+.//span[@class="ewb-list-date"]
+.//span[@class="ewb-news-date"]
+.//span[@class="ewb-right-date r"]
+.//span[@class="facet-item__value"]
+.//span[@class="field-author"]
+.//span[@class="field-date"]
+.//span[@class="file file--mime-application-pdf file--application-pdf"]/a/@href
+.//span[@class="file"]/a/@href
+.//span[@class="fl supp_desc w400"]
+.//span[@class="fr desc_btns"]/a/@href
+.//span[@class="fr"]
+.//span[@class="fright"]
+.//span[@class="gc_date"]
+.//span[@class="hiddenText"]/@title
+.//span[@class="index_s12_c666"]
+.//span[@class="lb-time"]
+.//span[@class="meta-date"]//span[@class="meta-inner"]
+.//span[@class="orange"]
+.//span[@class="post-date date updated"]
+.//span[@class="pub-value0"]
+.//span[@class="pub_date"]
+.//span[@class="r ewb-ndate"]
+.//span[@class="r"]
+.//span[@class="right gray"]
+.//span[@class="right-time"]
+.//span[@class="sjej"]
+.//span[@class="small-text"]
+.//span[@class="sp2 fr"]
+.//span[@class="span2"]
+.//span[@class="span_o"]
+.//span[@class="span_on"][1]
+.//span[@class="story-thumbnail__summary"]
+.//span[@class="teaser__text"]
+.//span[@class="tg-item-date"]
+.//span[@class="time"]
+.//span[@class="updated"]
+.//span[@class="uptime"]
+.//span[@class="wb-data-date"]
+.//span[@class="wrt-date"]
+.//span[@class='s2']
+.//span[@id="productTitle"]
+.//span[@style="white-space:nowrap;"]
+.//span[@title="Full name"]
+.//span[contains(@class,"date")]
+.//span[contains(text(), "�ɹ���")]
+.//span[contains(text(), "����ʱ��")]
+.//span[contains(text(), 'ҵ����λ��')]
+.//span[contains(text(),"Date")]/../span[2]
+.//strong
+.//strong/a
+.//strong/a /@href
+.//strong/a/@href
+.//strong[contains(text(),"By")]
+.//strong[contains(text(),"Date: ")]/../text()[2]
+.//table
+.//table[@class="views-table cols-4 table table-hover table-striped"]/tbody/tr
+.//table[@width="1003"]/tr/td[2]/table[4]
+.//table[@width="590"]
+.//table[@width="730"]
+.//table[@width="97%"]
+.//td
+.//td/a
+.//td/a/@href
+.//td/h2/a
+.//td/h2/a/@href
+.//td/text()[2]
+.//td[1]
+.//td[1]/a
+.//td[1]/a/@href
+.//td[2]
+.//td[2]/a
+.//td[2]/a/@href
+.//td[2]/a/span
+.//td[2]/span
+.//td[3]
+.//td[3]/a
+.//td[3]/a/@href
+.//td[3]/a/@onclick
+.//td[3]/a/span
+.//td[4]
+.//td[4]/a
+.//td[5]
+.//td[6]
+.//td[@align="center"]
+.//td[@align="center"][2]
+.//td[@align="left"]/a
+.//td[@align="left"]/a/@href
+.//td[@align="left"]/a[2]
+.//td[@align="left"]/a[2]/@href
+.//td[@align="right"]
+.//td[@align="right"]/font
+.//td[@background="images/b.jpg"]/a
+.//td[@background="images/b.jpg"]/a/@href
+.//td[@background="images/b.jpg"]/font
+.//td[@class="dr-table-cell rich-table-cell "][3]/a/@href
+.//td[@class="text-center"]
+.//td[@class="text_left"]/a
+.//td[@class="text_left"]/a/@href
+.//td[@class="textcenter"]
+.//td[@class="time"]
+.//td[@class="views-field views-field-name"]
+.//td[@class="views-field views-field-title"]
+.//td[@class="views-field views-field-title"]/a/@href
+.//td[@class='Font9']
+.//td[@style='width:90px;font-size:13px;']
+.//td[@valign="middle"]
+.//td[@width="100"]
+.//td[@width="140"]
+.//td[@width="15%"]
+.//td[@width="150"]
+.//td[@width="601"]
+.//td[@width="65%"]/a/@href
+.//td[@width="65%"]/a/@title
+.//td[@width="80"]
+.//td[@width="90"]
+.//text()
+.//th[@align="center"]
+.//time
+.//time/@datetime
+.//time[@class="policy-brief-index__time"]
+.//time[contains(@class,"entry-date published")]
+.//tr/td[1]
+.//tr/td[2]/span
+.//tr/td[4]
+.//tr/td[4]/@href
+.//tr[1]/td|.//div[@class="detail"]//a
+.//tr[4]/td
+.//tr[contains(@class, "post-row post-type-post")]
+.//tr[position()>1]
+.//ul
+.//ul[@class="cols cols--equal-heights__XX cols-css-2 clean-list list-spaced--more"]/li
+.//ul[@class="comma_separated"]/li/strong[@class="bold"]
+.//ul[@class="comma_separated"]/li[1]
+.//ul[@class="index bullet"]/li
+.//ul[@class="list clearfix list_col3"]/li[3]
+.//ul[@class="list-across-spaced"]/li
+.//ul[@class="liste_papiere"]/li
+.//ul[@class="menu"]/li[position()>1]
+.//ul[@class="pagination"]//li[position()>2]
+.//ul[@class="people-group author-group"]/li[@class="author"]/a
+.//ul[@class="policy-links"]/li
+.//ul[@class="post-categories"]/li
+.//ul[@class="text-extra-small text-uppercase alt-font blog-single-page-meta"]/li[3]
+.//ul[@class="text-extra-small text-uppercase alt-font blog-single-page-meta"]/li[@class="published"]
+.//ul[@class="type"]//li/a
+.//ul[@class="uppercase clean-list roman-normal-bold"]/a
+.//ul[@class="uppercase clean-list roman-normal-bold"]/li/a
+.//ul[@id="menu-primary-links"]/li[2]//li
+.//video/@src
+.//video/source/@src
+./@href
+./@onclick
+./a
+./a/@href
+./a/p|.//div[@class="underline-content"]/p
+./p
+./parent::div/parent::dd/preceding-sibling::dt//span[@class="title-name"]
+./text()
+./text()[3]
+./tr/td[5]/input/@value
+//*[@cellspacing=1]/tr[position() mod 2=0]
+//*[@class=" author-name"]
+//*[@class="ZLDNN_ArticleList"]//tr
+//*[@class="Zoom"]
+//*[@class="author"]
+//*[@class="author"]|//header//*[contains(@class,"byline")]/a
+//*[@class="container "]//li/div/a[contains(@href,"pdf")]/..
+//*[@class="entry"]/p[1]
+//*[@class="link_listing"]//li
+//*[@class="listing views-row"]
+//*[@class="long-description"]/p[2]/strong | //*[@class="long-description"]/p[2]/b
+//*[@class="loop-meta-item"][1]
+//*[@class="name"]//span
+//*[@class="page-excerpt padbottom"]//h2
+//*[@class="pdf"]/@src
+//*[@class="rank_left_lib"]
+//*[@class="stackcolumn "]/div[1]/i
+//*[@class="stackcolumn green"]/div[1]/i
+//*[@class="tag"]
+//*[@class="thrRec_maquee"]/ul/li
+//*[@id="content"]//h1
+//*[@id="content"]//li
+//*[@id="media-image"]//img/@src
+//*[@id="menu-ai-editorial"]//li
+//*[@id="menu-policy-briefs"]//li
+//*[@id="ticket_count1"][1]/i/text()
+//*[@id="ticket_count1"][2]/i/text()
+//*[@itemprop="dateCreated"]
+//*[@style="padding-top:5px;text-align:left"]
+//*[@style="text-align: center;"]//a[contains(@href,"pdf")]/@href
+//*[@type="square"]//li//a[contains(@href,"pdf")]
+//*[contains(@href, ".mp3")]/@href
+//*[contains(@href, ".mp3")]/@href|//*[contains(@href, ".pdf")]/@href
+//*[contains(@href, ".mp4")]/@href|//*[contains(@href, ".pdf")]/@href
+//*[contains(@href, ".pdf")]/@href
+//*[contains(@src, ".mp4")]/@src|//*[contains(@href, ".pdf")]/@href
+//*[contains(text(), "Author:")]/following-sibling::div[1]
+//*[text()="Explore: Policy"]/following-sibling::div[1]
+//*[text()="pdf"]/@href
+//a
+//a/@href
+//a/@title
+//a[@class="boe-asset"]/@href
+//a[@class="btn btn-default"]
+//a[@class="button-link with-icon pdf-download"]/@href
+//a[@class="byline"]
+//a[@class="c-interaction-bar__button ts-body"]/@href
+//a[@class="c-single-header__author-link"]
+//a[@class="download"]/@href
+//a[@class="eb-post-image eb-image-popup-button"]/@href
+//a[@class="info_download text_btn"]/@href
+//a[@class="info_link"]
+//a[@class="next page-numbers"]
+//a[@class="rank_left_lib"]
+//a[@class="tag yr-tag"]
+//a[@href="/English/Publish/Books.html"]/following-sibling::ul//li
+//a[@href="/English/Publish/Download.html"]/following-sibling::ul//li
+//a[@onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);"]/@href
+//a[@onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);"]/@href|//a[contains(text(), "Download PDF")]/@href
+//a[@rel="author"]
+//a[@rel="category tag"]
+//a[contains(@href, ".dpf")]/@href
+//a[contains(@href, ".pdf")]/@href
+//a[contains(@href, "/research/publications?resources[]=")]
+//a[contains(@href, "edu/author")]
+//a[contains(@href,".pdf")]/..
+//a[contains(@href,".pdf")]/@href
+//a[contains(@href,"/search/")]
+//a[contains(@href,"doc.htm")]
+//a[contains(@href,"mp3")]/@href
+//a[contains(@href,"mp3")]/@href|.//*[@class="video-wrapper"]/iframe/@src
+//a[contains(@href,"pdf")]
+//a[contains(@href,"pdf")]/@href
+//a[contains(@href,"pdf")]/@href|.//*[@class="issuu-wrapper"]/iframe/@src
+//a[contains(@href,"pptx")]/@href
+//a[contains(@href,"undocs")]
+//a[contains(text(), "Back")]/..
+//a[contains(text(), "Download full publication")]/@href
+//a[contains(text(), "Download full report")]/@href
+//a[contains(text(), "FY ")]/..
+//a[contains(text(), "Full paper")]/@href
+//a[contains(text(), "READ THE REPORT NOW")]/@href
+//a[text()="Read the Full Article"]/../preceding-sibling::p
+//article
+//article//div[contains(@class, "entry")]
+//article//p//a
+//article/h1
+//article/h1|//div[@class="longform-feature-header__title"]
+//article[@class="article article--standard ajax-item"]
+//article[@class="articleBody"]
+//article[@class="list-item   publication article"]
+//article[@class="list-item"]
+//article[@class="maincontent"]
+//article[@class="o-eight-col o-offset-by-two o-column"]
+//article[@role="article"]
+//aside[@class="hero__meta"]//a
+//aside[@class="hero__meta"]/div
+//b
+//body
+//body[@onload="content()"]/table
+//div/span[@class="outer"]
+//div[@ class="detail_box qst_box"]
+//div[@class="ArticleHeader_channel"]
+//div[@class="ChangeMidle"]
+//div[@class="Contnet"]
+//div[@class="List1"]/ul/li
+//div[@class="List2 Top18"]/ul/li
+//div[@class="List2"]/ul/li
+//div[@class="List3"]/ul/li
+//div[@class="Padding5 PaddingLR15"]
+//div[@class="R_cont_detail"]/ul/li
+//div[@class="Right-Border floatL"]/dl/dt
+//div[@class="Section1"]
+//div[@class="StandardArticleBody_container"]
+//div[@class="W930 center"]
+//div[@class="W980 Center PaddingTop10"]
+//div[@class="W980 center PaddingTop10"]
+//div[@class="Zoom"]
+//div[@class="acticle"]
+//div[@class="all_list"]//li
+//div[@class="artText"]
+//div[@class="art_info"]/span[3]
+//div[@class="article article_hp"]
+//div[@class="article section"]
+//div[@class="article"]
+//div[@class="article-body-text"]
+//div[@class="article-content"]
+//div[@class="article-content"]//a[contains(@href,".pdf")]
+//div[@class="article-info"]
+//div[@class="article-list-template"]/a
+//div[@class="article-meta"]//span[@class="font-weight-bold"]|//div[@class="article-meta"]//a[contains(@href, "about/people/staff/")]
+//div[@class="article-text   article-text-c"]
+//div[@class="article-topper__hero-image"]/img/@src
+//div[@class="article__body article__body--legacy"]
+//div[@class="article__body article__body--paragraph"]
+//div[@class="article__body"]
+//div[@class="article__date"]
+//div[@class="article__image"]//img/@src
+//div[@class="article_content"]
+//div[@class="article_list"]//tr
+//div[@class="article_wrap"]
+//div[@class="artikelintro"]/h4[1]/text()[1]
+//div[@class="block"]
+//div[@class="block-publications__item"]
+//div[@class="blog-author-links"]/a
+//div[@class="blog-content"]
+//div[@class="blog-date-wrapper"]
+//div[@class="blog-date-wrapper"]/a
+//div[@class="body-copy"]
+//div[@class="body-wrapper"]
+//div[@class="c-card c-card_wide"]
+//div[@class="c-page__content js-cms-render__content"]/p[1]
+//div[@class="c-single__authors"]
+//div[@class="c-single__date"]/time
+//div[@class="c1-bline"]
+//div[@class="cat_list"]/ul/li
+//div[@class="center detail-page"]
+//div[@class="cfcpn_list_content text-left"]
+//div[@class="cheenz"]/ul/li
+//div[@class="clearfix group-meta field-group-div"]/a
+//div[@class="col col-lg-4 col-md-6 col-xs-12"]
+//div[@class="col sqs-col-10 span-10"]//div[contains(@class,"summary-item-record-type-text")]
+//div[@class="col sqs-col-12 span-12"]//div[contains(@class,"summary-item-record-type-text")]
+//div[@class="col sqs-col-7 span-7"]//div[contains(@class,"summary-item-record-type-text")]
+//div[@class="col-lg-5 col-md-10 col-sm-12"]//span
+//div[@class="col-lg-9"]
+//div[@class="col-lg-9"]//article
+//div[@class="col-lg-9"]//time
+//div[@class="col-md-12 pull-left results"]//div[@class="row"]
+//div[@class="col-md-12 pull-left"]//div[@class="row"]
+//div[@class="col-md-4 col-sm-6 overlay "]
+//div[@class="col-md-9"]/div[@style="margin-top:30px;"]
+//div[@class="col-xs-10 topic-block animated fadeIn"]//li
+//div[@class="col-xs-12 col-md-9 main-col"]/h1
+//div[@class="column infoLink noBox unitWidth_x6"]/ul/li
+//div[@class="column1 col col-10"]//article
+//div[@class="con_row"]
+//div[@class="cont"]
+//div[@class="cont-info"]
+//div[@class="contain detail-con"]
+//div[@class="container"]
+//div[@class="content content-x2"]
+//div[@class="content"]
+//div[@class="content"]//tr
+//div[@class="content"]/img/@src
+//div[@class="content-col-full"]|//div[@class="content"]
+//div[@class="content-list"]/ul/li
+//div[@class="content-right-content-center"]/li
+//div[@class="content-right-details-top"]
+//div[@class="content-text"]
+//div[@class="content_box"]
+//div[@class="contentbox2"]
+//div[@class="contents-container contents-container-pane-taxonomy-panel-pane-2"]//li/a
+//div[@class="copy"]
+//div[@class="create"]|//span[@class="post_info_date"]
+//div[@class="createdby"]|//span[@class="post_info_author"]/text()
+//div[@class="data-doc-col-main"]
+//div[@class="date-and-byline"]
+//div[@class="date-author"][1]
+//div[@class="date-publish"]
+//div[@class="description"]
+//div[@class="detail clearfloat"]/ul/li
+//div[@class="detail"]
+//div[@class="detail"][2]
+//div[@class="detail-info"]|//table[@id="tblInfo"]
+//div[@class="detail-main"]
+//div[@class="detail_con"]
+//div[@class="details"]
+//div[@class="details-info"]
+//div[@class="details_right"]
+//div[@class="details_rightWrapC"]/ul/li
+//div[@class="dialog-off-canvas-main-canvas"]
+//div[@class="div-content"]
+//div[@class="ds-meta-wrapper"]/div[2]/text()[2]
+//div[@class="dynamic_content_center swiper-slide"]/a
+//div[@class="eb-entry-head"]/h1
+//div[@class="eb-post"]
+//div[@class="eb-post-body type-standard"]
+//div[@class="empowerment"]//li
+//div[@class="empowerment"]//tr//a
+//div[@class="entry"]
+//div[@class="entry-content content"]/p[1]/strong
+//div[@class="entry-content"]
+//div[@class="entry-content"]//img/@src
+//div[@class="entry-featured-image"]//img/@src
+//div[@class="entry-thumb"]//img/@src
+//div[@class="entry-thumbnail detailpage"]/img/@src
+//div[@class="entry-wrap"]
+//div[@class="event-single__thumbnail isd-publications"]/img/@src
+//div[@class="ewb-article"]
+//div[@class="ewb-column1"]
+//div[@class="ewb-con"]
+//div[@class="ewb-details-info"]
+//div[@class="ewb-info"]
+//div[@class="ewb-info-forus"]/a
+//div[@class="ewb-info-forus"]/a/@href
+//div[@class="ewb-infolist"]/ul/li
+//div[@class="ewb-list"]
+//div[@class="ewb-list-bd"]
+//div[@class="ewb-main"]
+//div[@class="ewb-main-info"]
+//div[@class="ewb-notice-bd"]
+//div[@class="ewb-right"]
+//div[@class="ewb-row"]
+//div[@class="field field--author-profile"]//h4
+//div[@class="field field-name-body field-type-text-with-summary field-label-hidden"]|//div[@id="content"]
+//div[@class="field field-name-field-date"]/span
+//div[@class="field field-name-field-related-authors field-type-field-collection field-label-hidden"]//a
+//div[@class="field field-name-field-story-image field-type-image field-label-hidden"]//img/@src
+//div[@class="field field-name-publication-authors"]//span
+//div[@class="field"]/following-sibling::div
+//div[@class="field-content"]//img/@src
+//div[@class="field-item even"]/img/@src
+//div[@class="field-item even"]/ul//li
+//div[@class="field-items"]//li
+//div[@class="field-items"]//tr
+//div[@class="field-meta last"]//span[@class="date-display-single"]
+//div[@class="field-meta"]//span[@class="date-display-single"]
+//div[@class="field-name-body"]/ul/li
+//div[@class="frame-pane"]
+//div[@class="frameReport"]
+//div[@class="gd_xilan"]
+//div[@class="gdl-blog-medium"]
+//div[@class="grid-12 article-push entry-content"]
+//div[@class="grid-12 single-article-image"]/img/@src
+//div[@class="grid_6 sticky"]/p[1]/a|//div[@class="grid_6"]/p[1]/a
+//div[@class="grid_6 sticky"]|//div[@class="grid_6"]
+//div[@class="grid_6"]
+//div[@class="grid_6"]/h2
+//div[@class="grid_6"]/h2|//div[@class="grid_6 sticky"]/h2
+//div[@class="grid_tiem grid_tiem-2 has-gutter"]
+//div[@class="gutters area-focus padded-less"]
+//div[@class="hdNews clearfix"]
+//div[@class="image"]/@style
+//div[@class="ind_box fixed"]
+//div[@class="info"]/ul/li
+//div[@class="info_con"]/table/tr
+//div[@class="infolist-main"]/ul/li
+//div[@class="inside"]
+//div[@class="inside-txt gallery-listing"]
+//div[@class="inside-txt"]
+//div[@class="issue__row"]
+//div[@class="item grid"]
+//div[@class="item"]
+//div[@class="item-page"]|//div[@class="post_header single"]
+//div[@class="item__block"]
+//div[@class="jsgc_nr"]
+//div[@class="jxTradingPublic"]
+//div[@class="l-content"]
+//div[@class="l-main"]
+//div[@class="layout-detail-page__main"]
+//div[@class="layout-detail-page__main"]|//*[@class="entry-content content-padding"]
+//div[@class="layout-detail-page__main"]|//div[@class="field field--feature-paragraphs"]
+//div[@class="lb-link"]/ul/li
+//div[@class="left"]//li
+//div[@class="left_box"]
+//div[@class="list pagelist font"]/ul/li
+//div[@class="list"]
+//div[@class="list-content"]
+//div[@class="list-lb"]
+//div[@class="list-lb"]/ul/li
+//div[@class="list02"]/ul/li
+//div[@class="listBox03"]/ul/li
+//div[@class="list_con zx_marb"]/p[contains(@class, "lt_title")]/parent::*
+//div[@class="list_con"]/ul/li
+//div[@class="list_content fl"]
+//div[@class="list_div mar-top2 "]
+//div[@class="listed-page listed-publication"]|//div[@class="listed-page listed-blog-post tile box box-bordered box-hover"]
+//div[@class="lmy_bd"]/ul/li
+//div[@class="m_list_3"]/ul/li
+//div[@class="main-body"]//img/@src
+//div[@class="main-content two-thirds"]
+//div[@class="main-content two-thirds"]/h1
+//div[@class="main-content two-thirds"]/h3[1]
+//div[@class="main-content"]
+//div[@class="main-content"]//img/@src
+//div[@class="mainBorder"]
+//div[@class="mainCont"]
+//div[@class="mbox lpInfo"]
+//div[@class="menu-info"]
+//div[@class="mleft"]
+//div[@class="mod-reportlist"]/ul/li
+//div[@class="nei02_04_01"]/ul/li
+//div[@class="nei03_02"]
+//div[@class="new_detail"]
+//div[@class="new_list"]/ul/li
+//div[@class="new_text"]
+//div[@class="news"]/ul/li
+//div[@class="news-detail-wrap"]
+//div[@class="news-item-text"]
+//div[@class="news-layout"]
+//div[@class="news-list"]/ul/li
+//div[@class="newsTex"]
+//div[@class="news_content"]
+//div[@class="news_content"]//img/@src
+//div[@class="news_description"]
+//div[@class="news_details_content"]
+//div[@class="news_info"]
+//div[@class="news_list gray1 font14"]/ul/li
+//div[@class="news_title"]
+//div[@class="newstitle"]/ul
+//div[@class="nnewslist1"]/ul/li
+//div[@class="node-load-more--item"]
+//div[@class="node-research  node-research-multiple"]
+//div[@class="now-bd"]
+//div[@class="nrkd left"]
+//div[@class="ny_zb_list"]/ul/li
+//div[@class="off-canvas-content"]
+//div[@class="off-canvas-wrapper"]
+//div[@class="page-header"]/h1|//h1
+//div[@class="pageRight_box"]
+//div[@class="pane-content"]/h1
+//div[@class="panel panel-default text-justify"]/a[contains(@href,".doc")]
+//div[@class="panel panel-default text-justify"]/a[contains(@href,".pdf")]
+//div[@class="panel panel-default"]
+//div[@class="panel panel-default"]//div[@class="row"]
+//div[@class="panel panel-default"]/a[contains(@href,".doc")]
+//div[@class="panel panel-default"]/a[contains(@href,".pdf")]
+//div[@class="panel panel-default"]/a[not(contains(@href,".pdf"))]
+//div[@class="panel-body"]
+//div[@class="panel-body"]/..
+//div[@class="panel-pane pane-node-title item-title"]
+//div[@class="panel-pane pane-views-panes pane-publications-by-taxonomy-term-panel-pane-1"]//div[@class="more-link"]
+//div[@class="ph-content-author"]
+//div[@class="ph-content-block-wrapper"]
+//div[@class="ph-content-date"]
+//div[@class="ph-download"]/a/@href
+//div[@class="ph-excerpt ph-fix-exerpt"]/text()[2]
+//div[@class="ph-post-thumbnail"]/img/@src
+//div[@class="pl-heroleft content "]/div
+//div[@class="pmen"]
+//div[@class="post left width-25"]
+//div[@class="post"]
+//div[@class="post-con"]
+//div[@class="post-content"]
+//div[@class="post-content"]/p[1]//a
+//div[@class="post-content"]/p[1]//em[2]
+//div[@class="post-hero"]/img/@src
+//div[@class="post-item "]
+//div[@class="post-title"]|//h1[@class="entry-title p-name"]
+//div[@class="post-title"]|//h1[@data-content-field="title"]
+//div[@class="post_5 restpostlayout hide_ajx_post"]|//div[@class="post_5 restpostlayout"]
+//div[@class="post_content"]//li
+//div[@class="post_content"]/p[1]//img/@src
+//div[@class="post_content"]|//div[@class="entry-content"]
+//div[@class="post_info"]/a
+//div[@class="post_text"]
+//div[@class="publications-section"]/div[position() < 11]
+//div[@class="publicont"]
+//div[@class="resolutionstable"]//li
+//div[@class="result-row pub-row"]
+//div[@class="resultItem table-row"]
+//div[@class="richtext component"]
+//div[@class="rightMessage"]
+//div[@class="right_box"]/ul/li
+//div[@class="right_con rh_fl"]
+//div[@class="rl-box-right"]/ul/li
+//div[@class="row home-article"]
+//div[@class="row load-item grid-isotope"]/div
+//div[@class="row milestone"]//li
+//div[@class="row sqs-row"]
+//div[@class="row sqs-row"]|//div[@class="col sqs-col-12 span-12"]
+//div[@class="row"]
+//div[@class="rowContainer"]
+//div[@class="s_main"]
+//div[@class="second-lb-item"]
+//div[@class="slat-content"]/div[@class="field field-name-post-date"]
+//div[@class="slat-image"]//img/@src
+//div[@class="small"]
+//div[@class="specialDate"]
+//div[@class="story story-detail article-detail"]
+//div[@class="story story-float-img"]
+//div[@class="story-tag"]
+//div[@class="story-text  "]|//div[@class="story-text"]
+//div[@class="story-txt"]
+//div[@class="sub_list b30"]//a[contains(@href,"/theme/")]
+//div[@class="subpage-bottom-inner container-20"]
+//div[@class="subpostoptions"]
+//div[@class="summary-excerpt"]
+//div[@class="summary-thumbnail-outer-container"]//img/@data-src
+//div[@class="t-change"]//div[@class="t-row"]
+//div[@class="t-col"]
+//div[@class="t-col"][10]
+//div[@class="t-col"][11]
+//div[@class="t-col"][12]
+//div[@class="t-col"][13]
+//div[@class="t-col"][14]
+//div[@class="t-col"][15]
+//div[@class="t-col"][16]
+//div[@class="t-col"][17]
+//div[@class="t-col"][1]
+//div[@class="t-col"][2]
+//div[@class="t-col"][3]
+//div[@class="t-col"][4]
+//div[@class="t-col"][5]
+//div[@class="t-col"][6]
+//div[@class="t-col"][7]
+//div[@class="t-col"][8]
+//div[@class="t-col"][9]
+//div[@class="t-left"]//div[@class="t-row"]
+//div[@class="t-main-col"]//div[@class="t-row"]
+//div[@class="tab-item itemtw"]/ul/li
+//div[@class="table-noline pbNested pbNestedWrapper "]
+//div[@class="tags-date"]
+//div[@class="tbody"]/ul/li
+//div[@class="td-post-content"]
+//div[@class="td-post-content"]/p/strong
+//div[@class="teaser__description"]
+//div[@class="teaser__text"]
+//div[@class="teasers__wrapper "]/a
+//div[@class="template"]
+//div[@class="template_main_down"][2]/ul
+//div[@class="text"]
+//div[@class="text"]/ul/li
+//div[@class="text_c"]
+//div[@class="the-content"]
+//div[@class="theatre-info "]/h2
+//div[@class="theatre-info "]/h2/text()
+//div[@class="theatre-info "]/p/span/i
+//div[@class="theatre-info "]/p/span[1]/i/text()
+//div[@class="theatre-info "]/p/span[2]/i
+//div[@class="thumbnail"]//img/@src
+//div[@class="topic_list"]/ul/li
+//div[@class="u-collapse"]
+//div[@class="u-container"]
+//div[@class="ul_div"]/ul/li
+//div[@class="underlined-cta util__center"]/a/@href
+//div[@class="unit size4of6"]
+//div[@class="vT_detail_content w100c"]
+//div[@class="view-content"]
+//div[@class="view-content"]//div[@class="views-row"]
+//div[@class="view-content"]//li
+//div[@class="view-content"]//li/a
+//div[@class="view-content"]/div
+//div[@class="view-content"]/div[position() > 1][position() < 15]
+//div[@class="views-field views-field-created"]/span
+//div[@class="views-field views-field-field-person-photo"]//img/@src
+//div[@class="views-field views-field-field-publication-thumbnail"]//img/@src
+//div[@class="views-field views-field-field-research-tags"]//a
+//div[@class="views-field views-field-php"]//a
+//div[@class="views-field views-field-title-1"]//a
+//div[@class="views-field-title"]/a/@href
+//div[@class="views-row search-results"]
+//div[@class="views-row"]
+//div[@class="wrapper "]
+//div[@class="wrapper"]
+//div[@class="x-main"]
+//div[@class="xnrx"]/ul/li
+//div[@class="xx-main"]
+//div[@class="xxei"]
+//div[@class="xxej"]
+//div[@class="zbdt-news-item"]
+//div[@class="zbgg_table"]/table/tr[position() > 1]
+//div[@class="zw"]
+//div[@class="zx-item"]/ul
+//div[@class='date-publish']
+//div[@class='page--title']/h1|//h1
+//div[@class='page--topics']//div[@class='field--items']/div[@class='field--item']/a
+//div[@class='person-name']/span
+//div[@class='publication--topics']//div[@class='field--items']/div[@class='field--item']/a
+//div[@data-id="tab-002001003"]
+//div[@data-type="text"]|//div[@class="eb-entry-body type-standard clearfix"]
+//div[@data-yaft-module="huffpost-entry-text"]
+//div[@frag="��������24"]/ul/li
+//div[@id="article"]
+//div[@id="articleAdd"]
+//div[@id="block-knl-publication-type-code"]//li
+//div[@id="block-system-main"]
+//div[@id="body"]
+//div[@id="center"]
+//div[@id="container"]
+//div[@id="content"]
+//div[@id="content"]//h2
+//div[@id="content"]/div[@class="post clearfix"]
+//div[@id="content"]/li
+//div[@id="contentWrapper"]
+//div[@id="content_list"]/ul/li
+//div[@id="cs-content"]
+//div[@id="ctl00_m_g_1b3a4fef_a2e0_41eb_b7c5_54726e267857"]
+//div[@id="dnn_ContentPane"]
+//div[@id="doc"]
+//div[@id="dp-container"]
+//div[@id="entry-content"]
+//div[@id="htmlTable"]
+//div[@id="img-wrap"]/@style
+//div[@id="infoList"]
+//div[@id="listCon"]/ul/li
+//div[@id="list_right"]/ul/li
+//div[@id="main-area"]
+//div[@id="main-body-container"]
+//div[@id="main-column"]|//div[@class="BodyCell-blhzy-0 jPvoAc Cell-s1jgw6rh-0 hmnTYZ"]|//div[@id="content-main"]|//div[@class="Content-s1nb6xfy-0 content gOtveZ"]
+//div[@id="mainContent"]
+//div[@id="mainContents"]
+//div[@id="mainImageContainer"]//img/@src|//div[@id="img-canvas"]//img/@src
+//div[@id="media-description"]
+//div[@id="menutab_5_3"]
+//div[@id="menutab_5_3"]|//div[@id="menutab_4_3"]
+//div[@id="menutab_6_3"]
+//div[@id="menutab_6_4"]
+//div[@id="modal-ready"]
+//div[@id="myPrintArea"]
+//div[@id="newsList"]/ul/li
+//div[@id="newsdetailshow"]
+//div[@id="node-load-more--wrapper"]
+//div[@id="overview"]|//div[@class="info-column col-xs-8"]
+//div[@id="page"]
+//div[@id="page-body-wrapper"]
+//div[@id="posts"]/div[position() > 1]
+//div[@id="posts"]/div[position()>1]
+//div[@id="posts-container"]//article
+//div[@id="print-content"]
+//div[@id="print_content"]//span[@itemprop="author"]
+//div[@id="print_content_3"]//*[contains(@href, ".pdf")]/@href
+//div[@id="publicity_contents"]
+//div[@id="recentreleases"]/div
+//div[@id="searchPanel"]
+//div[@id="siteWrapper"]
+//div[@id="specials-content"]
+//div[@id="wp_news_w6"]/table/tr
+//div[@id="wrap"]//img/@src
+//div[@id="wrapper"]
+//div[@id="xiangqingneiron"]
+//div[@id="zone-content"]
+//div[@id='page-main-content']
+//div[@id='publication-page-main-content']
+//div[@itemprop="articleBody"]
+//div[@itemprop="articleBody"]//img/@src
+//div[@itemprop="articleBody"]/p//a[contains(@href, ".pdf")]/@href
+//div[@itemprop="articleBody"]|//div[@class="article article_hp"]
+//div[@itemprop="image"]/img/@src
+//div[@property="content:encoded"]
+//div[@role="article"]
+//div[@style="min-height:547px;"]/ul/li
+//div[@style="overflow-y:auto;overflow-x:auto;width:680px;height:330px"]/table/tr
+//div[@style="padding:10px;"]
+//div[@style="padding:7px 0px;"]
+//div[@style="width: 1105px;margin:0 auto"]
+//div[@style="xnrx"]
+//div[contains(@class, "home-mid-module")]
+//div[contains(@class, "infinite-wrap infinite-view")]/div
+//div[contains(@class, "innerContent innerContent")]
+//div[contains(@class, "items-row cols-1")]
+//div[contains(@class, "old-post")]
+//div[contains(@class, "progStory group")]
+//div[contains(@class, "summary-item-has-excerpt")]
+//div[contains(@class, "views-row views-row-")]
+//div[contains(@class, "wmle_item_holder col3 post_design")]
+//div[contains(@class, 'story story-float-img')]//h3
+//div[contains(@class,"hoover-2col-research-panel")]
+//div[contains(@class,"subpostoptions")]
+//div[contains(@class,"views-row views-row-")]
+//dl
+//dl/dd
+//dl[@class="sDisclosurLeftConDetailList"]
+//dl[@class="unstyled purchase-list-msg"]
+//em
+//em[contains(@class, "rank_left_trend")]/@class
+//figure[@id="thumbnail"]/img/@data-src
+//font[@class="webfont"]
+//form[@id="moderate"]/li
+//form[@method="post"]//tr
+//h1
+//h1/span
+//h1[@class="article-title"]
+//h1[@class="article__title"]
+//h1[@class="article__title"]|//span[@class="header-image-text-inline"]|//h1[@id="page-title"]
+//h1[@class="article__title"]|//span[@class="header-image-text-inline"]|//h1[@id="page-title"]|//article//h1
+//h1[@class="blog-title"]
+//h1[@class="c-single-header__content__title ts-page-head-2"]
+//h1[@class="c-single-header__title ts-heading-1"]
+//h1[@class="entry-title"]
+//h1[@class="event-single__title"]
+//h1[@class="header_text"]
+//h1[@class="hiddenSmall"]
+//h1[@class="p-name"]
+//h1[@class="page-title"]
+//h1[@class="page__title--detail"]
+//h1[@class="the-title"]
+//h1[@class="title"]
+//h1[@class="title-post entry-title"]
+//h1[@class="ts-heading-1"]
+//h1[@class='event--title']
+//h1[@id="page-title"]
+//h1[@itemprop="headline"]
+//h1[@itemprop="headline"]/span
+//h2
+//h2/a
+//h2/a[contains(@href, ".pdf")]/@href
+//h2/text()
+//h2[@class="article-subtitle"]
+//h2[@class="blog-post-title"]
+//h2[@class="entry-title"]
+//h2[@class="entry-title"]/a
+//h2[@class="post-title"]|//h1[@class="entry-title"]
+//h2[@class="title"]
+//h2[@class='post-title']
+//h2[@itemprop="name"]
+//h2[@style="color: black; font-weight: bold; background-color:#FFFFFF; background-image:none; padding: 0 0 20px 0"]
+//h2[contains(text(), "Topics: ")]/following-sibling::div//a
+//h3
+//h3/a
+//h3/a[contains(@href, ".pdf")]/@href
+//h3/following-sibling::p[1]
+//h3/text()[2]
+//h3[@class="author__heading"]/a
+//h4/a[contains(@href,"pdf")]/../../../..
+//h5[@class="c-single-header__post-type__label ts-page-meta-1"]
+//header//*[contains(@class,"byline")]
+//header[@class="article-header"]//div[@class="field-name-field-research-authors field-meta"]//a
+//i[@class="icon-calendar"]/..
+//iframe[@class="pdf"]/@data-src
+//img/@src
+//img[@class="align-right"]/@src
+//img[@class="hero-image"]/@src
+//img[@itemprop="image"]/@src
+//img[@style="float: left; padding: 0 10px 10px 10px"]/@src
+//img[@typeof="foaf:Image"]/@src
+//input[@name="select-driver[]"
+//li
+//li[1]
+//li[2]
+//li[3]
+//li[@class="article-item"]/dl[@class="content"]
+//li[@class="clear"]
+//li[@class="clearFix"]
+//li[@class="clearfix"]
+//li[@class="common-item clearfix"]
+//li[@class="edgtf-blog-list-item clearfix"]
+//li[@class="ewb-com-item clearfix jiezhi"]
+//li[@class="ewb-data-item"]
+//li[@class="ewb-data-list"]
+//li[@class="ewb-info-item clearfix"]
+//li[@class="ewb-info-item"]
+//li[@class="ewb-info-item2 clearfix"]
+//li[@class="ewb-list-node clearfix"]
+//li[@class="ewb-right-list clearfix"]
+//li[@class="gallery-slide"]/img/@src
+//li[@class="generic_listing"]
+//li[@class="lnd_latestnews"]
+//li[@class="media"]
+//li[@class="pager__item pager__item--next"]
+//li[@class="project-li clearfix"]
+//li[@class="right-item clearfix"]
+//li[@class="tender_tli1"]/ul[@class="main_ul1"]
+//li[@class="topic-list-item"]
+//li[@class="wb-data-list clearfix"]
+//li[@class="wb-data-list"]
+//li[@id="menu-item-30228"]/ul/li
+//li[@id="menu-item-3341"]//li
+//li[@id="menu-item-3341"]//li//a[contains(@href,"pdf")]
+//li[@id="menu-item-34"]//li
+//li[@itemprop="keywords"]
+//li[@name="li_name"]
+//li[contains(@class,"publication-typ")]
+//li[contains(text(), "Author:")]|//li[contains(text(),"Authors:")]
+//li[contains(text(), "Authors: ")]
+//li[contains(text(), "Published ")]
+//li[contains(text(), "Published: ")]
+//meta[@name="twitter:description"]/@content
+//p/a[contains(@href,".pdf")]/@href
+//p/span|//a[contains(@href, "au/people/bio")]
+//p[@class=" link-pdf"]/a
+//p[@class=" link-pdf"]/a/@href
+//p[@class="article-authors__author-name"]
+//p[@class="article-time"]/text()[1]
+//p[@class="articleSubText hiddenSmall"]
+//p[@class="articleSubText hiddenSmall"][1]
+//p[@class="author"]/text()[1]
+//p[@class="authors"]/span
+//p[@class="blog-post-meta"]/text()
+//p[@class="byline"]
+//p[@class="c-single-header__content__meta-1 ts-page-meta-1 ts-page-meta-1--no-transform"]
+//p[@class="c-single-header__content__meta-1 ts-page-meta-1 ts-page-meta-1--no-transform"]/a
+//p[@class="date"]
+//p[@class="h5 person__name"]//span
+//p[@class="label label--date"]
+//p[@class="postmetadata"]
+//p[@class="published-by-date"]
+//p[@class="style9"]
+//p[@class="submitted"]/a[@title="View user profile."]
+//p[@class="teaser_body"]
+//p[@class="topics"]/a
+//p[@class='index-rank-tab']/a[contains(text(), '��˿����')]/ancestor::div[@class='index-rank']//div[@class='index-rank-content']//table/tbody/tr
+//p[@style="text-align:center"][1]/img/@src
+//p[contains(text(), "Tags:")]/a
+//p[contains(text(), "You can download the article in PDF ")]/a/@href
+//picture/img/@data-src
+//picture[@class="pic_both"]//img/@src
+//querydata
+//script[@nonce]/text()
+//section
+//section[@class="entry"]
+//section[@class="feed ajaxBody"]/article
+//section[@class="post-middle bg-white"]
+//section[@class="section_body section_press_blog section_press_detail"]
+//section[@class="section_body section_press_blog section_press_detail"]|//section[@class="section_body section_news_blog section_news_detail"]
+//section[@class="section_body section_publications"]
+//section[@class="teaser"]
+//section[@id="block-system-main"]//div[contains(@class,"views-row")]
+//section[@id="content"]/article
+//section[@id="expand"]
+//section[@id="sp-main-body"]
+//section[@id="visible-body"]
+//section[@itemprop="articleBody"]
+//section[contains(@class,"-feed")]//div[contains(@class,"post left")]
+//select//option[position()>1]
+//select//option[position()>2]
+//select[@class="parents"]/option[position() > 1]
+//select[@id="edit-issues-impact"]/option
+//select[@id="issues"]/option[position() > 1]
+//span
+//span[@class="article-meta-item article-meta-links"]/a
+//span[@class="article-meta-item article-meta-source"]
+//span[@class="article-meta-item"]
+//span[@class="article-topper__date article-topper__date--published"]/text()[2]
+//span[@class="author notFaded"]/a
+//span[@class="author vcard"]/a
+//span[@class="author"]
+//span[@class="author"]/a
+//span[@class="byline"]/a
+//span[@class="c-single-header__date"]
+//span[@class="date"]
+//span[@class="date-display-single"]
+//span[@class="dateline__published"]/time/@datetime
+//span[@class="editors"]
+//span[@class="ewb-date"]
+//span[@class="file"]/a/@href
+//span[@class="header-image-text-inline"]|//h1[@id="page-title"]
+//span[@class="hidden-xs"]
+//span[@class="label-xxs label-tag e-acc-purple-2 e-col-white-1"]
+//span[@class="m-calendar-querydate"]/@rawdate
+//span[@class="m-calendar-querydate"]/@showtxt
+//span[@class="meta-tags"]/a
+//span[@class="readanchore"]/div
+//span[@class="teaser__expert"]/a[contains(@href, "/people/")]
+//span[@class="title"]/text()
+//span[@class="tnt-byline"]
+//span[@class="value"]
+//span[@class="views-label views-label-field-topics"]/following-sibling::div
+//span[@class="zinecategory-author"]/text()
+//span[@class='date-post']
+//span[@class='rank_left_desc']/text()
+//span[@class='rank_left_name']/text()
+//span[@class='rank_left_rank']/span/i/text()
+//span[@class='rank_left_value']/b/text()
+//span[@id="ctl00_ContentPlaceHolder3_lblNoticeContent"]
+//span[@id="productTitle"]
+//span[@itemprop="dateCreated"]
+//span[@itemprop="datePublished"]
+//span[@itemprop="datePublished"]/@content
+//span[@itemprop="name"]
+//span[@property="dc:date"]
+//span[@style="color: #800000;font-family: verdana, geneva, sans-serif;font-size: 12pt"]|//span[@style="font-family: verdana, geneva, sans-serif;color: #800000;font-size: 12pt"]
+//span[contains(@class, "meta-author")]/a
+//span[contains(@class, "meta-date")]//time/@datetime
+//span[contains(text(), "�����ɹ�����")]
+//span[text()="Related Topics:"]/../following-sibling::div//a
+//strong[text()="Author/s (editor/s): "]/../following-sibling::div[1]
+//strong[text()="Date: "]/../text()
+//table//tr[position()>3]//a[contains(@href,"pdf")]
+//table/tr
+//table[@ width="668"]/tr
+//table[@bordercolor="#E3E3E3"]/tr[position() < 11]
+//table[@class="StdInputTable"]
+//table[@class="datatable display compact block"]/tbody/tr
+//table[@class="datatlb"]/tr[position() > 1]
+//table[@class="dnnGrid"]//tr[position()>1]
+//table[@class="listInfoTable"]/tr[position()>1]
+//table[@class="list_table"]/tr
+//table[@class="mar_t17"][1]/tr
+//table[@class="newsTable listdt"]/tr
+//table[@class="newtable"]/tbody/tr[position() < 11]
+//table[@class="newtable"]/tbody/tr[position()<11]
+//table[@class="noticelist"]/tr
+//table[@class="serch_cnttlb"]/tr
+//table[@class="t1"]/tr[position()>1]
+//table[@class="table table-content policy-brief-index"]/tbody/tr
+//table[@class="tbpara"]/tbody
+//table[@class="tighter"]//a[not(contains(@href,".pdf"))]/..
+//table[@height='29']
+//table[@id="DataGrid1"]/tr
+//table[@id="Table1"]
+//table[@id="ctl00_ContentPlaceHolder3_gdvNotice3"]/tr[position() > 1][position() < 17]
+//table[@id="data_tab"]/tbody/tr[position()>1]
+//table[@id="id_bl"]/tr
+//table[@id="node_list"]/tbody/tr
+//table[@id="row"]/tbody/tr
+//table[@id="tblInfo"]
+//table[@style="width:100%;"]/tr
+//table[@width="100%"]
+//table[@width="620"]/tr
+//table[@width="720"]/tr[position()>1][position()<12]
+//table[@width="887"]
+//table[@width="95%"]/tr[position()>1]
+//table[@width="96%"]/tr/td/table[@class="t"]/tr
+//tbody/tr
+//tbody/tr[1]
+//tbody/tr[@class=""]
+//tbody[@class="purchaseList"]/tr
+//tbody[@id="infocontent"]/tr
+//tbody[@id="list005001003body"]/tr
+//td
+//td/a/@href
+//td/a/text()
+//td/b/text()
+//td/li
+//td/span/text()
+//td/table/tr
+//td[@align="left"]
+//td[@class="border"]
+//td[@class="bt_content"]
+//td[@class="t_f"]
+//td[@colspan="4"]
+//td[@height="250"]
+//td[@height="35"]
+//td[@id="Zoom"]
+//td[@style="padding:26px 0px 10px 0px;"]
+//td[@valign="top"]
+//td[@valign="top"][2]
+//td[@width="570"]/..
+//time
+//time/@datetime
+//time/a
+//time[1]/@datetime
+//time[@class="dt-published published post-date"]|//*[@class="entry-dateline-link"]
+//time[@class="dt-published published post-date"]|//time[@class="dt-published published entry-date"]
+//time[@class="entry-date published"]|//time[@class="entry-date published updated"]
+//time[@class="entry-date"]
+//time[@class="published"]
+//time[@class="published"]/@datetime
+//time[@pubdate="pubdate"]
+//time|//span[@class="published"]
+//title/text()
+//tr
+//tr//div[@class="search-publication-title"]
+//tr[2]/td/a
+//tr[@bgcolor="#E3EDF6"]
+//tr[@class="canTouch"]
+//tr[@class="dr-table-firstrow rich-table-firstrow "]
+//tr[@class="gradeX"]
+//tr[@class="listRow"]|//tr[@class="listAlternatingRow"]
+//tr[@class="trfont"]
+//tr[@data-linkid]
+//tr[@height="22"]
+//tr[@height="25"]
+//tr[@height="27"]
+//tr[@height="30"]
+//tr[@height="35px"]
+//tr[@height="60px"]
+//tr[@id="biaoti"]
+//tr[@style="height:22px;"]
+//tr[@style='height:30px;']
+//tr[@valign="top"]
+//tr[position() > 1]
+//tr[position()>1]
+//ul
+//ul/li
+//ul[@class="List_list"]/li
+//ul[@class="article-index"]/li
+//ul[@class="article-list2"]/li
+//ul[@class="article-results"]/li
+//ul[@class="bg-light jszb-notice_list"][1]/li
+//ul[@class="borderList"]//li/h3
+//ul[@class="c_list_item"]/li
+//ul[@class="canTouch"]
+//ul[@class="categories-list"]//a
+//ul[@class="dataList"]/li
+//ul[@class="ds-artifact-list list-unstyled"]/li
+//ul[@class="ewb-con-item"]/li
+//ul[@class="ewb-news-items"]/li
+//ul[@class="font02"]/li
+//ul[@class="gclist_ul listnew"]/li
+//ul[@class="gg_right_ul"]/li
+//ul[@class="grywggBox"]/li
+//ul[@class="item lh jt_dott f14"]/li
+//ul[@class="lby-list"]/li
+//ul[@class="list"]//li
+//ul[@class="list"]/li
+//ul[@class="listarticle"]/li
+//ul[@class="m_m_c_list"]/li
+//ul[@class="main_r_con"]/li
+//ul[@class="mbox-info"]/li[1]/h3
+//ul[@class="mbox-info"]/li[1]/h3/text()
+//ul[@class="mbox-info"]/li[2]/h3
+//ul[@class="mbox-info"]/li[3]/h3
+//ul[@class="mbox-info"]/li[4]/h3
+//ul[@class="module latest-articles latest-articles--religion-liberty article-feed"]/li
+//ul[@class="new_3_1"]/a
+//ul[@class="news-list news-list9"]/li
+//ul[@class="news-list unlist"]/li
+//ul[@class="news-list-content list-unstyled margin-top-20"]/li
+//ul[@class="news_list"]/li[not(@class="hei")][position()>1]
+//ul[@class="newslist"]/li
+//ul[@class="post-categories single"]/li[1]
+//ul[@class="post-list loop-list"]//li
+//ul[@class="secList pd10 fixed"]/li
+//ul[@class="story-frag-list layout-grid grid-3"]//article
+//ul[@class="study-list post-list"]/li
+//ul[@class="supp_ul"]/li
+//ul[@class="tag-list"]/li/a
+//ul[@class="tz-compact-list"]/li
+//ul[@class="tz-simple-list"]/li
+//ul[@class="ul1"]/li[position()>1]
+//ul[@class="zbgg"]/li
+//ul[@class="zixun_con"]/li
+//ul[@id="listbox"]/li
+//ul[@id="menu-sidebar-areas-of-intervention"]/li
+//ul[@id="newslist"]/li
+//ul[@style="padding-top: 0px;"]/li
+/@href
+/b
+/div/a
+/div/a/@href
+/td[1]
+/td[2]
+/td[3]

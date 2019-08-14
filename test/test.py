@@ -3,7 +3,7 @@ import os
 import unittest
 
 
-from xpathparser import XpathExpression
+from xpath_parser import XpathExpression
 
 
 cur_path = os.path.dirname(__file__)

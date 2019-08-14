@@ -103,14 +103,12 @@
 .//*[@class="body-content"]
 .//*[@class="body-row-page-white content-ugc"]/div/div/div[2]
 .//*[@class="bodytextlist"]
-.//*[@class="box-div"]/div[contains(., "DDR ($��Ԫ)")]//table//tr[position()>1]
 .//*[@class="box-div"]/div[contains(., "Flash")]//table//tr[position()>1]
 .//*[@class="box-div"]/div[contains(., "SSD")]//table//tr[position()>1]
 .//*[@class="box-div"]/div[contains(., "UFS")]//table//tr[position()>1]
 .//*[@class="box-div"]/div[contains(., "USB")]//table//tr[position()>1]
 .//*[@class="box-div"]/div[contains(., "eMCP")]//table//tr[position()>1]
 .//*[@class="box-div"]/div[contains(., "eMMC")]//table//tr[position()>1]
-.//*[@class="box-div"]/div[contains(., "����")]//table//tr[position()>1]
 .//*[@class="breadcrumbs"]//li[@class="title"]
 .//*[@class="buttons time fleft"]
 .//*[@class="byline author vcard"]//a
@@ -1752,9 +1750,6 @@
 .//span[@style="white-space:nowrap;"]
 .//span[@title="Full name"]
 .//span[contains(@class,"date")]
-.//span[contains(text(), "�ɹ���")]
-.//span[contains(text(), "����ʱ��")]
-.//span[contains(text(), 'ҵ����λ��')]
 .//span[contains(text(),"Date")]/../span[2]
 .//strong
 .//strong/a
@@ -2590,7 +2585,7 @@
 //p[@class="submitted"]/a[@title="View user profile."]
 //p[@class="teaser_body"]
 //p[@class="topics"]/a
-//p[@class='index-rank-tab']/a[contains(text(), '��˿����')]/ancestor::div[@class='index-rank']//div[@class='index-rank-content']//table/tbody/tr
+//p[@class='index-rank-tab']/a[contains(text(), ' ')]/ancestor::div[@class='index-rank']//div[@class='index-rank-content']//table/tbody/tr
 //p[@style="text-align:center"][1]/img/@src
 //p[contains(text(), "Tags:")]/a
 //p[contains(text(), "You can download the article in PDF ")]/a/@href

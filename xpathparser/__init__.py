@@ -15,12 +15,14 @@ axis_pattern = re.compile("^(?P<name>[a-zA-Z\-]+)::")
 attribute_pattern = re.compile("^@(?P<name>.*)$")
 
 
-def parse_groups(expression, flag="()"):
+def parse_groups(expression: str, flag: str = "()") -> list:
     """
     >>> parse_groups("(1)(2)")
     [(0, 2), (3, 5)]
     >>> parse_groups("((1)(2))")
     [(0, 7), (1, 3), (4, 6)]
+    >>> parse_groups("'1'2'3'", flag="''")
+    [(0, 2), (4, 6)]
 
     :param expression:
     :param flag:
@@ -28,15 +30,24 @@ def parse_groups(expression, flag="()"):
     """
     brackets = []
     _brackets = []
-    for _idx, s in enumerate(expression):
-        if s == flag[0]:
-            _brackets.append(_idx)
-        elif s == flag[1]:
-            brackets.append((_brackets.pop(-1), _idx))
+    # TODO  support """1'2'34"5"6'7'7"""
+    if flag[0] == flag[1]:
+        for _idx, s in enumerate(expression):
+            if s == flag[0] and not _brackets:
+                _brackets.append(_idx)
+            elif s == flag[0]:
+                brackets.append((_brackets.pop(-1), _idx))
+    else:
+        for _idx, s in enumerate(expression):
+            if s == flag[0]:
+                _brackets.append(_idx)
+            elif s == flag[1]:
+                brackets.append((_brackets.pop(-1), _idx))
     brackets.sort(key=lambda x: x[0])
     return brackets
 
 
+# TODO typing
 class XpathNode(object):
     """
     >>> node = XpathNode("/text()")
@@ -60,11 +71,11 @@ class XpathNode(object):
     def __repr__(self):
         """
         >>> print(XpathNode("/text()"))
-        <XpathNode: /text()>
+        <XpathNode(function): /text() >
 
         :return:
         """
-        return "<XpathNode: {}>".format(self._expression)
+        return "<XpathNode({}): {} >".format(self.type, self._expression)
 
     def __str__(self):
         return self.__repr__()
@@ -92,6 +103,8 @@ class XpathNode(object):
         'href'
         >>> XpathNode.parse("/@href")["type"]
         'attr'
+        >>> XpathNode.parse("/..")["type"]
+        'relative'
 
         :param expression:
         :return:
@@ -103,7 +116,7 @@ class XpathNode(object):
             }
 
         """
-        _expression = expression.strip().strip(".").rstrip("/")
+        _expression = expression.strip().lstrip(".").rstrip("/")
         if not _expression.startswith("/"):
             raise InValidXpath(expression)
         #
@@ -131,6 +144,10 @@ class XpathNode(object):
                 node_type = "attr"
                 name = m.groupdict()["name"]
         if not node_type:
+            if _expression == "..":
+                node_type = "relative"
+                name = ""
+        if not node_type:
             node_type = "element"
             attrs = _expression.replace("]", "").split("[")
             name = attrs[0]
@@ -150,7 +167,7 @@ class XpathExpression(object):
         """
         >>> parser = XpathExpression("//div[@class='content']/p")
         >>> parser.nodes
-        [<XpathNode: //div[@class='content']>, <XpathNode: /p>]
+        [<XpathNode(element): //div[@class='content'] >, <XpathNode(element): /p >]
 
 
         :param expression:
@@ -163,15 +180,20 @@ class XpathExpression(object):
         ]
 
     def __repr__(self):
-        return "<XpathExpression: {}>".format(self._expression)
+        return "<XpathExpression: {} >".format(self._expression)
 
     def __str__(self):
         return self.__repr__()
 
     @classmethod
-    def normalize(cls, expression):
+    def normalize(cls, expression: str) -> str:
         """
-
+        >>> XpathExpression.normalize("((//svg)[2]//text)/text()")
+        '(//svg)[2]//text/text()'
+        >>> XpathExpression.normalize("//div/a[position() > 1]")
+        '//div/a[position()>1]'
+        >>> XpathExpression.normalize("//div/a[@class='abc 123']")
+        "//div/a[@class='abc 123']"
 
         normalzed xpath expression
         :param expression:
@@ -182,22 +204,34 @@ class XpathExpression(object):
         brackets = parse_groups(expression)
         removed_char_idxs = []
         for start, end in brackets:
-            if start + 1 == end:
-                # function
+            if start + 1 == end or expression[start + 1] != "/":
+                # ignore function
                 continue
-            if end == expression_length - 1:
+            if end == expression_length - 1 or expression[end + 1] != "[":
                 removed_char_idxs.extend([start, end])
                 continue
-            if expression[end + 1] != "[":
-                removed_char_idxs.extend([start, end])
-                continue
+        # remove useless space
+        if " " in expression:
+            # TODO fix ' and "
+            if "'" in expression:
+                quote_groups = parse_groups(expression, flag="''")
+            elif '"' in expression:
+                quote_groups = parse_groups(expression, flag='""')
+            else:
+                quote_groups = []
+            no_quote_indexs = set(range(len(expression)))
+            for quote_group in quote_groups:
+                no_quote_indexs -= set(range(*quote_group))
+            for _idx, char in enumerate(expression):
+                if char == " " and _idx in no_quote_indexs:
+                    removed_char_idxs.append(_idx)
         expression = "".join(
             [x for _idx, x in enumerate(expression) if _idx not in removed_char_idxs]
         )
         return expression.strip()
 
     @classmethod
-    def parse(cls, expression):
+    def parse(cls, expression: str) -> list:
         """
         >>> XpathExpression.parse("//div[@class='content']/p")
         ["//div[@class='content']", '/p']
@@ -207,22 +241,24 @@ class XpathExpression(object):
         """
         # normalize
         _expression = cls.normalize(expression)
-        _expression = _expression.strip(".").rstrip("/")
+        _expression = _expression.lstrip(".").rstrip("/")
         # check
         if not _expression.startswith(("/", "(")):
             raise InValidXpath(expression)
         nodes = []
+        if "|" in _expression:
+            nodes = [cls(x) for x in _expression.split("|")]
+            return nodes
+
         # groups
         brackets = parse_groups(_expression)
-        for start, end in brackets:
-            if start + 1 == end:
-                # function
-                continue
-            else:
-                _group_start = start
-                _group_end = end
-                if _expression[end + 1] == "[":
-                    _group_end = _group_end + _expression[end:].find("]")
+        if brackets:
+            _group_start, _group_end = brackets[0]
+            if _group_start == 0 and _group_start + 1 != _group_end:
+                if _expression[_group_end + 1] == "[":
+                    _group_end = (
+                        _group_end + 1 + _expression[_group_end + 1 :].find("]")
+                    )
                 _group_expression = _expression[_group_start : _group_end + 1]
                 if _group_expression.endswith("]"):
                     _group_expression_index = int(
@@ -236,7 +272,7 @@ class XpathExpression(object):
                     first_group[0] + 1 : first_group[1]
                 ]
                 nodes.append(cls(_group_expression, index=_group_expression_index))
-                # TODO
+                _expression = _expression[_group_end + 1 :]
         #
         in_quote = False
         _node = []

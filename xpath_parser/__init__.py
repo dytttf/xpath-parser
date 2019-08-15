@@ -1,8 +1,16 @@
 # coding:utf8
 """
 Xpath Expression parser
+
+Example:
+    >>> xp1 = XpathExpression("//div[@id='list']/a")
+    >>> xp2 = XpathExpression("./a/@href")
+    >>> xp1.nodes[-1].name == xp2.nodes[0].name
+    True
+
 """
 import re
+from typing import List, Tuple
 
 
 class InValidXpath(ValueError):
@@ -15,7 +23,7 @@ axis_pattern = re.compile("^(?P<name>[a-zA-Z\-]+)::")
 attribute_pattern = re.compile("^@(?P<name>.*)$")
 
 
-def parse_groups(expression: str, flag: str = "()") -> list:
+def parse_groups(expression: str, flag: str = "()") -> List[Tuple]:
     """
     >>> parse_groups("(1)(2)")
     [(0, 2), (3, 5)]
@@ -53,6 +61,12 @@ class XpathNode(object):
     >>> node = XpathNode("/text()")
     >>> node.name
     'text'
+    >>> node.type
+    'function'
+    >>> node.attrs
+    []
+    >>> node.ignore_position
+    False
 
     """
 
@@ -66,7 +80,7 @@ class XpathNode(object):
         self.name = self._parse_result["name"]
         self.type = self._parse_result["type"]
         self.attrs = self._parse_result["attrs"]
-        self.ignore_position = self._parse_result["attrs"]
+        self.ignore_position = self._parse_result["ignore_position"]
 
     def __repr__(self):
         """
@@ -79,6 +93,20 @@ class XpathNode(object):
 
     def __str__(self):
         return self.__repr__()
+
+    def __eq__(self, other):
+        """
+        >>> XpathNode("/div") == XpathNode("/div")
+        True
+        >>> XpathNode("/div[position() > 1]") == XpathNode("/div[position()>1]")
+        True
+
+        :param other:
+        :return:
+        """
+        return XpathExpression.normalize(self._expression) == XpathExpression.normalize(
+            other._expression
+        )
 
     @classmethod
     def parse(cls, expression: str) -> dict:
@@ -204,7 +232,7 @@ class XpathExpression(object):
         brackets = parse_groups(expression)
         removed_char_idxs = []
         for start, end in brackets:
-            if start + 1 == end or expression[start + 1] != "/":
+            if start + 1 == end or expression[start + 1] not in "/(":
                 # ignore function
                 continue
             if end == expression_length - 1 or expression[end + 1] != "[":
@@ -231,7 +259,7 @@ class XpathExpression(object):
         return expression.strip()
 
     @classmethod
-    def parse(cls, expression: str) -> list:
+    def parse(cls, expression: str) -> List[str]:
         """
         >>> XpathExpression.parse("//div[@class='content']/p")
         ["//div[@class='content']", '/p']
@@ -298,9 +326,3 @@ if __name__ == "__main__":
     import doctest
 
     doctest.testmod()
-
-    xp1 = XpathExpression("//div[@class='a']/a")
-    xp2 = XpathExpression("./@href")
-
-    print(xp1.nodes[-1]._parse_result)
-    print(xp2.nodes[0]._parse_result)
